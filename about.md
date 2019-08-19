@@ -52,7 +52,7 @@ We are broadly interested in various topics related to **gravitational and Quant
 
 ### Welcome to Join our Research
 
-Dr. Lijing Shao is interested in supervising **senior undergraduates**, and **graduates at
+Dr. Chenggang Shao is interested in supervising **senior undergraduates**, and **graduates at
 all levels**. Those who are good at either mathematics or computer science are
 especially encouraged. Students from other universities/institutions are also
 welcome. 
@@ -60,7 +60,7 @@ welcome.
 We would also like to hire **postdoctoral researchers**. If you are interested
 in gravitational physics or searching for new physics from astrophysical
 observations, please send your CV and we will help you in getting a position
-when available. Please contact [Dr. Lijing Shao](https://friendshao.github.io/)!
+when available. Please contact [Dr. Chenggang Shao](http://faculty.hust.edu.cn/shaochenggang/zh_CN/index.htm)!
 
 <figure>                                                                        
 <img src="/assets/group_meeting_Jun1_2019.png" style="width:100%">                 
