@@ -24,14 +24,11 @@ tr:nth-child(odd) {
 
 ## Research Interests 
 
-We are broadly interested in various topics related to **gravitational astrophysics**, in particular we enjoyed working on
-- Tests of gravity theories
-- Gravitational waves
-- Pulsars and neutron stars
-- Astrophysical studies of dark matter
-- Black hole spacetime
-- Precision tests of fundamental physics
-- Bayesian data analysis and statistics
+We are broadly interested in various topics related to **gravitational and Quantum theory**, in particular we enjoyed working on
+- Noise Modeling for space-borne gravitational wave detectors
+- Clock system in TianQin's mission
+- test of gravity theory using 'TianQin' dector
+- test of general relativity using atom interfeometry technique
 
 ### Welcome to Join our Research
 
