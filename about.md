@@ -32,10 +32,9 @@ We are broadly interested in various topics related to **gravitational and Quant
 - the inertial sensing system
 - noise reduction scheme and signal extractional
 
- **Clock system in TianQin's mission**
+- **Clock system in TianQin's mission**
 
 - **test of gravity theory using 'TianQin' dector**
-
 - **test of general relativity using atom interfeometry technique**
 
 ### Welcome to Join our Research
