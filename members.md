@@ -24,7 +24,7 @@ permalink: /member/
 
 <img src="{{ site.baseurl }}/assets/Shao_Lijing.png" title="Profile Picture" class="profile">
 
-<big><b>Dr. Lijing Shao (邵立晶)</b></big><br>
+<big><b>Xiaoyu Lus</b></big><br>
 <i><b>Assistant Professor</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
 <b>Email</b>: lshao@pku.edu.cn<br>
