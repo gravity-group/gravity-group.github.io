@@ -38,13 +38,13 @@ We are broadly interested in various topics related to **gravitational and Quant
 - c.
 - d.
 
-**test of gravity theory using 'TianQin' dector**
+**Test of gravity theory using 'TianQin' dector**
 - a.
 - b.
 - c.
 - d.
 
-**test of general relativity using atom interfeometry technique**
+**Test of general relativity using atom interfeometry technique**
 - a.
 - b.
 - c.
@@ -68,6 +68,6 @@ when available. Please contact [Dr. Lijing Shao](https://friendshao.github.io/)!
 </figure>
 
 <figure>                                                                        
-<img src="/assets/group_meeting_Dec25_2018.jpeg" style="width:100%">                 
+<img src="/assets/group_meeting_Dec25_2018.jpg" style="width:100%">                 
 <figcaption><font color="grey"><b>Group meeting on December 25, 2018.</b></font></figcaption>
 </figure>
