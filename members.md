@@ -22,9 +22,9 @@ permalink: /member/
   }
 </style>
 
-<img src="{{ site.baseurl }}/assets/Shao_Lijing.png" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/Shao_Chenggang.png" title="Profile Picture" class="profile">
 
-<big><b>Dr. shao</b></big><br>
+<big><b>Dr. Chenggang Shao (邵成刚)</b></big><br>
 <i><b>Assistant Professor</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
 <b>Email</b>: lshao@pku.edu.cn<br>
@@ -33,8 +33,8 @@ beyond the standard model<br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Xu_Rui.jpeg" title="Profile Picture" class="profile">
-<big><b>Dr. Rui Xu (徐睿)</b></big><br>
+<img src="{{ site.baseurl }}/assets/Tan_Yujie.png" title="Profile Picture" class="profile">
+<big><b>Dr. Yujie Tan (谈玉杰)</b></big><br>
 <i><b>Boya Postdoctoral Fellow</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
 <b>Email</b>: xuru@pku.edu.cn  <br>
@@ -44,8 +44,8 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Zhao_Junjie.png" title="Profile Picture" class="profile">
-<big><b>Junjie Zhao (赵俊杰)</b></big><br>
+<img src="{{ site.baseurl }}/assets/Qin_Chenggang.png" title="Profile Picture" class="profile">
+<big><b>Chenggang Qin (秦成刚)</b></big><br>
 <i><b>PhD Student (2016-now)</b>, Institute for Theoretical Physics, School of Physics, 
   Peking University</i><br>
 <b>Email</b>: junjiezhao@pku.edu.cn<br>
@@ -53,8 +53,8 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/MiaoXueli.jpeg" title="Profile Picture" class="profile">
-<big><b>Xueli Miao (缪雪丽)</b></big><br>
+<img src="{{ site.baseurl }}/assets/Lu_Xiaoyu.png" title="Profile Picture" class="profile">
+<big><b>Xiaoyu Lu (路晓宇)</b></big><br>
 <i><b>PhD Student (2016-now)</b>, Institute for Theoretical Physics, School of Physics, 
   Peking University</i><br>
 <b>Email</b>: 18883263806@163.com<br>
@@ -62,8 +62,8 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Gao_Yong.png" title="Profile Picture" class="profile">
-<big><b>Yong Gao (高勇)</b></big><br>
+<img src="{{ site.baseurl }}/assets/Wang_Yajie.png" title="Profile Picture" class="profile">
+<big><b>Yajie Wang (王亚杰)</b></big><br>
 <i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
   Peking University</i><br>
 <b>Email</b>: gaoyong.physics@pku.edu.cn <br>
@@ -71,8 +71,36 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Liu_Chang.jpeg" title="Profile Picture" class="profile">
-<big><b>Chang Liu (刘畅)</b></big><br>
+<img src="{{ site.baseurl }}/assets/Wang_Panpan.png" title="Profile Picture" class="profile">
+<big><b>Panpan Wang (王盼盼)</b></big><br>
+<i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
+  Peking University</i><br>
+<b>Email</b>: leslielc@pku.edu.cn <br>
+<b>Research Interests</b>: gravitational waves, pulsar astronomy <br>
+
+<img src="{{ site.baseurl }}/assets/Zhao_Miaomiao.png" title="Profile Picture" class="profile">
+<big><b>Miaomiao Zhao (赵苗苗)</b></big><br>
+<i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
+  Peking University</i><br>
+<b>Email</b>: leslielc@pku.edu.cn <br>
+<b>Research Interests</b>: gravitational waves, pulsar astronomy <br>
+
+<img src="{{ site.baseurl }}/assets/Zhao_Yuanling.png" title="Profile Picture" class="profile">
+<big><b>Yuanling Zhao (赵媛羚)</b></big><br>
+<i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
+  Peking University</i><br>
+<b>Email</b>: leslielc@pku.edu.cn <br>
+<b>Research Interests</b>: gravitational waves, pulsar astronomy <br>
+
+<img src="{{ site.baseurl }}/assets/Hu_Yu.png" title="Profile Picture" class="profile">
+<big><b>Yu Hu (胡宇)</b></big><br>
+<i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
+  Peking University</i><br>
+<b>Email</b>: leslielc@pku.edu.cn <br>
+<b>Research Interests</b>: gravitational waves, pulsar astronomy <br>
+
+<img src="{{ site.baseurl }}/assets/Shao_Caiying.png" title="Profile Picture" class="profile">
+<big><b>Caiying Shao (邵才莹)</b></big><br>
 <i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
   Peking University</i><br>
 <b>Email</b>: leslielc@pku.edu.cn <br>
