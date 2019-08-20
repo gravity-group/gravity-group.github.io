@@ -10,30 +10,33 @@ categories: activities
 
 Yujie Tan, Chengfang Qin Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yuanling Zhao, Yu Hu, Caiying Shao (9)
 
+---
+
 ## Paper Reading/Progress of the subject
 
 Name
 
-**Paper presentation: ZAIGA: Zhaoshan Long-baseline Atom Interferometer Gravitation Antenna**
+**Paper presentation: ZAIGA: Zhaoshan Long-baseline Atom Interferometer Gravitation Antenna,**by M.-S. Zhan et al. 
 
-by M.-S. Zhan et al. [[arXiv:1903.09288]](https://arxiv.org/abs/1903.09288)]
+
+(the information of paper: 2019-journal)[[arXiv:1903.09288]](https://arxiv.org/abs/1903.09288)]
 
 - Corresponding files
 
-PPT[[title](https://arxiv.org/abs/1903.09288)], WORD [[title](https://arxiv.org/abs/1903.09288)]
+ppt[[title](https://arxiv.org/abs/1903.09288)], word [[title](https://arxiv.org/abs/1903.09288)]
 
 ---
 
 Name
 
 
-**Paper presentation: ZAIGA: Zhaoshan Long-baseline Atom Interferometer Gravitation Antenna**
+**Paper presentation: ZAIGA: Zhaoshan Long-baseline Atom Interferometer Gravitation Antenna,** by M.-S. Zhan et al. 
 
-by M.-S. Zhan et al. [[arXiv:1903.09288]](https://arxiv.org/abs/1903.09288)]
+(the information of paper: 2019-journal) [[arXiv:1903.09288]](https://arxiv.org/abs/1903.09288)]
 
 - Corresponding files
 
-PPT[[title](https://arxiv.org/abs/1903.09288)], WORD [[title](https://arxiv.org/abs/1903.09288)]
+ppt[[title](https://arxiv.org/abs/1903.09288)], word [[title](https://arxiv.org/abs/1903.09288)]
 
 ---
 
@@ -43,24 +46,23 @@ Name
 
 **Theme**
 
-- 1. Paper presentation: ZAIGA: Zhaoshan Long-baseline Atom Interferometer Gravitation Antenna
+1. Paper presentation: ZAIGA: Zhaoshan Long-baseline Atom Interferometer Gravitation Antenna, by M.-S. Zhan et al. 
+
+(the information of paper: 2019-journal) [[arXiv:1903.09288]](https://arxiv.org/abs/1903.09288)]
+
+2. Paper presentation: ZAIGA: Zhaoshan Long-baseline Atom Interferometer Gravitation Antenna, by M.-S. Zhan et al. 
+
+(the information of paper: 2019-journal) [[arXiv:1903.09288]](https://arxiv.org/abs/1903.09288)]
 
 
-by M.-S. Zhan et al. [[arXiv:1903.09288]](https://arxiv.org/abs/1903.09288)]
+- Corresponding files
 
-- 2. Paper presentation: ZAIGA: Zhaoshan Long-baseline Atom Interferometer Gravitation Antenna
-
-by M.-S. Zhan et al. [[arXiv:1903.09288]](https://arxiv.org/abs/1903.09288)]
-
-
-**Corresponding files**
-
-PPT[[title](https://arxiv.org/abs/1903.09288)], WORD [[title](https://arxiv.org/abs/1903.09288)]
+ppt[[title](https://arxiv.org/abs/1903.09288)], word [[title](https://arxiv.org/abs/1903.09288)]
 
 ---
 
 
 ## Note
-- a
-- b
-- c 
+- a.
+- b.
+- c. 
