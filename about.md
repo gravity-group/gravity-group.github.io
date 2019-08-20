@@ -26,29 +26,30 @@ tr:nth-child(odd) {
 
 We are broadly interested in various topics related to **gravitational and Quantum theory**, in particular we enjoyed working on
 
-**Noise Modeling for space-borne gravitational wave detectors**
-- the orbital system
-- the laser ranging system
-- the inertial sensing system
-- noise reduction scheme and signal extractional
+**1. Noise analysis of space-borne gravitational wave detectors**
+- a. Noise modeling of track system
+- b. Noise modeling of laser ranging system
+- c. Noise modeling of inertial sensing system
+- d. noise reduction scheme and signal extractional
 
-**Clock system in TianQin's mission**
-- a.
-- b.
-- c.
-- d.
+**2. Clock system in TianQin's mission**
+- a. Clock synchronization scheme
+- b. Theoretical Modeling of clock comparison
+- c. Noise analysis of clock system 
+- d. Test of gravity theory
 
-**Test of gravity theory using 'TianQin' dector**
-- a.
-- b.
-- c.
-- d.
+**3. Test of gravity theory using 'TianQin' dector**
+- a. Extension of standard model
+- b. Modified gravity theories
+- c. Black hole physics, Gravitational wave source
+- d. Dark matter, Dark energy, cosmology
 
-**Test of general relativity using atom interfeometry technique**
-- a.
-- b.
-- c.
-- d.
+**4. Test of general relativity using atom interfeometry technique**
+- a. Gravitation wave detection
+- b. Theoretical modeling of measuring the gravitational constant 'G'
+- c. Dark matter, Dark energy, Measuring scheme of equivalence principle
+- d. Error analysis of atom interfeometry
+- e. Cold atom clock, Particle spain, Which way
 
 ### Welcome to Join our Research
 
@@ -63,11 +64,17 @@ observations, please send your CV and we will help you in getting a position
 when available. Please contact [Dr. Chenggang Shao](http://faculty.hust.edu.cn/shaochenggang/zh_CN/index.htm)!
 
 <figure>                                                                        
-<img src="/assets/group_meeting_Jun1_2019.png" style="width:100%">                 
-<figcaption><font color="grey"><b>Group meeting on June 1, 2019.</b></font></figcaption>
+<img src="/assets/league_building_Oct4_2018.png" style="width:100%">                 
+<figcaption><font color="grey"><b>League building on October 1, 2019.</b></font></figcaption>
 </figure>
 
 <figure>                                                                        
-<img src="/assets/group_meeting_Dec25_2018.jpg" style="width:100%">                 
-<figcaption><font color="grey"><b>Group meeting on December 25, 2018.</b></font></figcaption>
+<img src="/assets/graduation_ ceremony_May31_2019.png" style="width:100%">                 
+<figcaption><font color="grey"><b>Graduation ceremony on May 31, 2019.</b></font></figcaption>
 </figure>
+
+<figure>                                                                        
+<img src="/assets/league_building_Aug4_2019.png" style="width:100%">                 
+<figcaption><font color="grey"><b>League building on August 4, 2019.</b></font></figcaption>
+</figure>
+
