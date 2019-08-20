@@ -25,86 +25,86 @@ permalink: /member/
 <img src="{{ site.baseurl }}/assets/Shao_Chenggang.png" title="Profile Picture" class="profile">
 
 <big><b>Dr. Chenggang Shao (邵成刚)</b></big><br>
-<i><b>Assistant Professor</b>, Kavli Institute for Astronomy and Astrophysics,
-  Peking University</i><br>
-<b>Email</b>: lshao@pku.edu.cn<br>
-<b>Research Interests</b>: gravitational waves, pulsar astronomy, new physics
+<i><b>Assistant Professor</b>, Center for Gravitational Experiments,
+ Huazhong University of Science and Technology</i><br>
+<b>Email</b>: cgshao@hust.edu.cn<br>
+<b>Research Interests</b>: Gravitational waves, Clock comparison, New physics
 beyond the standard model<br>
 
 ---
 
 <img src="{{ site.baseurl }}/assets/Tan_Yujie.png" title="Profile Picture" class="profile">
 <big><b>Dr. Yujie Tan (谈玉杰)</b></big><br>
-<i><b>Boya Postdoctoral Fellow</b>, Kavli Institute for Astronomy and Astrophysics,
-  Peking University</i><br>
-<b>Email</b>: xuru@pku.edu.cn  <br>
-<b>Research Interests</b>: experimental tests of Lorentz symmetry in gravity,
-alternatives to general relativity, structure of black hole spacetime,
-evolution of binary black holes <br>
+<i><b>Boya Postdoctoral Fellow</b>,Center for Gravitational Experiments,
+ Huazhong University of Science and Technology</i><br>
+<b>Email</b>: yjtan@hust.edu.cn <br>
+<b>Research Interests</b>: Atom interferometry, Relativistic effects, Gravitational wave <br>
 
 ---
 
 <img src="{{ site.baseurl }}/assets/Qin_Chenggang.png" title="Profile Picture" class="profile">
 <big><b>Chenggang Qin (秦成刚)</b></big><br>
-<i><b>PhD Student (2016-now)</b>, Institute for Theoretical Physics, School of Physics, 
-  Peking University</i><br>
-<b>Email</b>: junjiezhao@pku.edu.cn<br>
-<b>Research Interests</b>: gravitational waves, alternative theories of gravity<br>
+<i><b>PhD Student (2016-now)</b>, Center for Gravitational Experiments,
+ Huazhong University of Science and Technology</i><br>
+<b>Email</b>: cgqin@hust. edu.cn<br>
+<b>Research Interests</b>: Shapiro time delay, Clock comparison,  Testing general relativity<br>
 
 ---
 
 <img src="{{ site.baseurl }}/assets/Lu_Xiaoyu.png" title="Profile Picture" class="profile">
 <big><b>Xiaoyu Lu (路晓宇)</b></big><br>
-<i><b>PhD Student (2016-now)</b>, Institute for Theoretical Physics, School of Physics, 
-  Peking University</i><br>
-<b>Email</b>: 18883263806@163.com<br>
-<b>Research Interests</b>: pulsar astronomy, new physics beyond the standard model<br>
+<i><b>PhD Student (2016-now)</b>, Center for Gravitational Experiments,
+ Huazhong University of Science and Technology</i><br>
+<b>Email</b>: xylu@hust.edu.cn<br>
+<b>Research Interests</b>: Clock comparison, Gravitational wave, New physics beyond the standard model<br>
 
 ---
 
 <img src="{{ site.baseurl }}/assets/Wang_Yajie.png" title="Profile Picture" class="profile">
 <big><b>Yajie Wang (王亚杰)</b></big><br>
-<i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
-  Peking University</i><br>
-<b>Email</b>: gaoyong.physics@pku.edu.cn <br>
-<b>Research Interests</b>: gravitational waves, neutron stars <br>
+<i><b>PhD Student (2018-now)</b>, Center for Gravitational Experiments,
+ Huazhong University of Science and Technology</i><br>
+<b>Email</b>: atom interferometry，gravitational waves，
+equivalence principle <br>
+<b>Research Interests</b>: Atom interferometry, Gravitational wave, Gravitational wave <br>
 
 ---
 
 <img src="{{ site.baseurl }}/assets/Wang_Panpan.png" title="Profile Picture" class="profile">
 <big><b>Panpan Wang (王盼盼)</b></big><br>
-<i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
-  Peking University</i><br>
-<b>Email</b>: leslielc@pku.edu.cn <br>
-<b>Research Interests</b>: gravitational waves, pulsar astronomy <br>
+<i><b>PhD Student (2018-now)</b>, Center for Gravitational Experiments,
+ Huazhong University of Science and Technology</i><br>
+<b>Email</b>: ppwang@hust.edu.cn <br>
+<b>Research Interests</b>: Atom interferometry，Gravitational waves，
+Equivalence principle <br>
 
 <img src="{{ site.baseurl }}/assets/Zhao_Miaomiao.png" title="Profile Picture" class="profile">
 <big><b>Miaomiao Zhao (赵苗苗)</b></big><br>
-<i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
-  Peking University</i><br>
-<b>Email</b>: leslielc@pku.edu.cn <br>
-<b>Research Interests</b>: gravitational waves, pulsar astronomy <br>
+<i><b>PhD Student (2018-now)</b>, Center for Gravitational Experiments,
+ Huazhong University of Science and Technology</i><br>
+<b>Email</b>: miaomiaozhao@hust.edu.cn <br>
+<b>Research Interests</b>: Theoretical modeling, Atom interferometry <br>
 
 <img src="{{ site.baseurl }}/assets/Zhao_Yuanling.png" title="Profile Picture" class="profile">
 <big><b>Yuanling Zhao (赵媛羚)</b></big><br>
-<i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
-  Peking University</i><br>
-<b>Email</b>: leslielc@pku.edu.cn <br>
-<b>Research Interests</b>: gravitational waves, pulsar astronomy <br>
+<i><b>PhD Student (2018-now)</b>, Center for Gravitational Experiments,
+ Huazhong University of Science and Technology</i><br>
+<b>Email</b>: ylzhao@hust.edu.cn <br>
+<b>Research Interests</b>: Atom interferometry ,Atomic clocks, Particle spin <br>
 
 <img src="{{ site.baseurl }}/assets/Hu_Yu.png" title="Profile Picture" class="profile">
 <big><b>Yu Hu (胡宇)</b></big><br>
-<i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
-  Peking University</i><br>
-<b>Email</b>: leslielc@pku.edu.cn <br>
-<b>Research Interests</b>: gravitational waves, pulsar astronomy <br>
+<i><b>PhD Student (2018-now)</b>, Center for Gravitational Experiments,
+ Huazhong University of Science and Technology</i><br>
+<b>Email</b>: yuhu@hust.edu.cn <br>
+<b>Research Interests</b>: Gravitational wave, Black hole, Modified gravity <br>
 
 <img src="{{ site.baseurl }}/assets/Shao_Caiying.png" title="Profile Picture" class="profile">
 <big><b>Caiying Shao (邵才莹)</b></big><br>
-<i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
-  Peking University</i><br>
-<b>Email</b>: leslielc@pku.edu.cn <br>
-<b>Research Interests</b>: gravitational waves, pulsar astronomy <br>
+<i><b>PhD Student (2018-now)</b>, Center for Gravitational Experiments,
+ Huazhong University of Science and Technology</i><br>
+<b>Email</b>: cyshao@hust.edu.cn <br>
+<b>Research Interests</b>: Gravitational wave source, Track system, Laser ranging system <br>
 
 ---
 
