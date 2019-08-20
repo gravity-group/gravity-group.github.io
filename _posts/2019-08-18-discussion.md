@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Discussion on Research Topics 03/07/2019"
+title:  "Discussion on Research Topics 18/08/2019"
 date:   2019-08-18
 author: Chenggang Shao
 categories: activities
