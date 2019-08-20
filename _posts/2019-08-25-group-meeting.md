@@ -6,9 +6,9 @@ author: Chenggang Shao
 categories: activities
 ---
 
-## Attendees
+## Attendees (9)
 
-Yujie Tan, Chengfang Qin Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yuanling Zhao, Yu Hu, Caiying Shao (9)
+Yujie Tan, Chengfang Qin Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yuanling Zhao, Yu Hu, Caiying Shao
 
 ---
 
@@ -46,11 +46,11 @@ Name
 
 **Theme**
 
-1. Paper presentation: ZAIGA: Zhaoshan Long-baseline Atom Interferometer Gravitation Antenna, by M.-S. Zhan et al. 
+1.Paper presentation: ZAIGA: Zhaoshan Long-baseline Atom Interferometer Gravitation Antenna, by M.-S. Zhan et al. 
 
 (the information of paper: 2019-journal) [[arXiv:1903.09288]](https://arxiv.org/abs/1903.09288)]
 
-2. Paper presentation: ZAIGA: Zhaoshan Long-baseline Atom Interferometer Gravitation Antenna, by M.-S. Zhan et al. 
+2.Paper presentation: ZAIGA: Zhaoshan Long-baseline Atom Interferometer Gravitation Antenna, by M.-S. Zhan et al. 
 
 (the information of paper: 2019-journal) [[arXiv:1903.09288]](https://arxiv.org/abs/1903.09288)]
 
