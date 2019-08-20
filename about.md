@@ -61,7 +61,7 @@ welcome.
 We would also like to hire **postdoctoral researchers**. If you are interested
 in gravitational physics or searching for new physics from astrophysical
 observations, please send your CV and we will help you in getting a position
-when available. Please contact [Dr. Chenggang Shao](http://faculty.hust.edu.cn/shaochenggang/zh_CN/index.htm)!
+when available. Please contact [Dr. Chenggang Shao](http://faculty.hust.edu.cn/shaochenggang/en/index.htm)!
 
 <figure>                                                                        
 <img src="/assets/league_building_Oct4_2018.png" style="width:100%">                 
