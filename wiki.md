@@ -22,6 +22,37 @@ tr:nth-child(odd) {
 }
 </style>
 
+## About Group Meetings
+
+Group meeting provides a friendly environment to interact with group
+members or visiting scholars.  It also brings the opportunity to broaden views
+in science, to learn different methods in solving problems, to strengthen the
+capability in scientifically sound presentations, even to develop close
+collaborations via inspiring discussions. 
+
+1. 进展报告：一是大任务的总结及遗留问题（做会议备忘录同学负责），二是推荐重要进展讲解。 
+
+2. 文献讲解：讲解自己最近阅读的与工作相关的而重要文献、或较新文献，突出讲解别人的动机、方法、结果，有没有不完善的，有没有值得我们借鉴的。注：文献讲解需提前将文献阅读报告及文献发到群里！
+
+3. 文献查新：讲解与自己课题相关的最新文献7-10篇（用PDF文献直接讲解，指出每篇文献的主要想法）。
+
+
+| **FORMAT** | **DURATION** | **NOTE** |
+| **General News** | about 5 min |
+| **Literature Reading** | < 15 min | <small>Sometimes, you only have 10 minutes to explain the <b>main</b> idea of a paper! |
+| **Paper Presentation** | about 1 hr | <small><b>PLEASE</b> announce the paper at least one week in advance! |
+| **Break** | 5 min | |
+| **Updates on Projects** | indefinite | <small>Those who are not involved are free to leave. |
+
+<p></p>
+
+We have a Journal Club **Gravitational Astrophysics** on
+[benty-fields](https://benty-fields.com/). Everyone is free to join.
+
+<p></p>
+
+---
+
 ## About research topic
 
 | **Topic** | **Small topic** | **Researchers** | 
@@ -46,52 +77,19 @@ tr:nth-child(odd) {
 | | Error analysis of atom interfeometry | **Miaomiao**, Panpan, Yajie |
 | | Cold atom clock, Particle spain, Which way | **Yuanling** |
 
-每个任务每两周需讨论一次，任务负责人进行规划组织，每次讨论附有会议备忘录。
+**每个任务每两周需讨论一次，任务负责人进行规划组织，每次讨论附有会议备忘录。**
+
+---
 
 ## 个人与邵老师每周讨论时间分配
 
 | **人员** | **时间** | **人员** | **时间** |
-| Caiying | 19:30-20:00 | Yu Hu | 20:00-20:30 |
-| Jin Tao | 20:30-21:00 | Xiaoyu | 21:10- |
-| Wenhao, Jiaojiao | 14:40-15:00 | Miaomiao | 15:10-16:00 |
-| Yuanling | 16:10-17:00 | Yajie | 17:10-18:00 |
-| Jun Ke | 19:30-20:00 | Chenggang | 20:00-20:30 |
-| Panpan | 20:40-21:30 | Chenggang | 21:35- |
-
-## About Group Meetings
-
-Group meeting provides a friendly environment to interact with group
-members or visiting scholars.  It also brings the opportunity to broaden views
-in science, to learn different methods in solving problems, to strengthen the
-capability in scientifically sound presentations, even to develop close
-collaborations via inspiring discussions. 
-
-1. Our group meetings take place in the <b>Room 208 at KIAA</b>. To avoid
-   conflicts with students' classes, the time is fixed to <b>Saturday
-   9:00—11:30</b>. 
-
-2. Sessions **literature reading** and **paper presentation** are reserved for
-   graduates/postdocs who work on research projects in the group, while
-   everyone is <b>HIGHLY</b> encouraged to talk in the session **updates on
-   projects**.
-
-3. It is suggested to use English whenever there are foreigners in the
-   audience.  Otherwise it is suggested to talk in Chinese, but use English in
-   slides. 
-
-| **FORMAT** | **DURATION** | **NOTE** |
-| **General News** | about 5 min |
-| **Literature Reading** | < 15 min | <small>Sometimes, you only have 10 minutes to explain the <b>main</b> idea of a paper! |
-| **Paper Presentation** | about 1 hr | <small><b>PLEASE</b> announce the paper at least one week in advance! |
-| **Break** | 5 min | |
-| **Updates on Projects** | indefinite | <small>Those who are not involved are free to leave. |
-
-<p></p>
-
-We have a Journal Club **Gravitational Astrophysics** on
-[benty-fields](https://benty-fields.com/). Everyone is free to join.
-
-<p></p>
+| Caiying | Tue. 19:30-20:00 | Yu Hu | Tue. 20:00-20:30 |
+| Jin Tao | Tue. 20:30-21:00 | Xiaoyu | Tue. 21:10- |
+| Wenhao, Jiaojiao | Wed. 14:40-15:00 | Miaomiao | Wed. 15:10-16:00 |
+| Yuanling | Wed. 16:10-17:00 | Yajie | Wed. 17:10-18:00 |
+| Jun Ke | Wed. 19:30-20:00 | Chenggang | Wed. 20:00-20:30 |
+| Panpan | Wed. 20:40-21:30 | Chenggang | Wed. 21:35- |
 
 ---
 
