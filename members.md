@@ -124,19 +124,8 @@ Equivalence principle <br>
 
 <p></p>
 
-## Former Members
 
-| **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
-| ... — present | **...** | **...** | ... | [...](...) |
 
-<p></p>
-
----
-
-## Visitors
-
-| **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
-| ... — present | **...** | **...** | ... | [...](...) |
 
 
 <!--
