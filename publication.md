@@ -4,7 +4,7 @@ title: Publication
 permalink: /publication/
 ---
 
-###代表性论著
+### 代表性论著
 
 - Qing Li et al., [Measurements of the gravitational constant using two independent methods](https://arxiv.org/abs/1907.00780), Nature, 560: 582~588.
 
@@ -33,21 +33,5 @@ permalink: /publication/
 ---
 
 ### 2017
-
----
-
-### 2018
-
-- 邵立晶 [编译],
-  [一“波”发现](http://www.wuli.ac.cn/CN/abstract/abstract73163.shtml), 《物理》
-47 (2018) 734
-
-- P. Bull, S. Camera, K. Kelley, H. Padmanabhan, J. Pritchard, A. Raccanelli,
-  S. Riemer-Sørensen, L. Shao, et al., [Fundamental physics with the Square
-Kilometre Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
-
-- L. Shao, Q.G. Bailey, [Testing velocity-dependent CPT-violating gravitational
-  forces with radio pulsars](https://arxiv.org/abs/1810.06332), *Phys. Rev. D*
-98 (2018) 084049
 
 ---
