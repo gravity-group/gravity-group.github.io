@@ -7,9 +7,9 @@ categories: activities
 ---
 
 
-### Attendees
+### Attendees (8)
 
-Yujie Tan, Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yuanling Zhao, Yu Hu, Caiying Shao (8)
+Yujie Tan, Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yuanling Zhao, Yu Hu, Caiying Shao 
 
 ---
 
