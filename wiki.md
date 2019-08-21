@@ -24,27 +24,27 @@ tr:nth-child(odd) {
 
 ## About research topic
 
-| **Number** | **Topic** | **Small topic** | **Researchers** |
-|1| **Noise analysis of space-borne gravitational wave detectors (Panpan)** | Noise modeling of track system | **Caiying**, Xiaoyu |
-| | | Noise modeling of laser ranging system  | **Chengfang**, **Panpan**, **Caiying**, Yuanling |
-| | | Noise modeling of inertial sensing system | **Jun Ke**, Panpan, Yuanling|
-| | | noise reduction scheme and signal extractional | **Xiaoyu**, Yajie, Caiying |
+| **Topic** | **Small topic** | **Researchers** |
+| **1. Noise analysis of space-borne gravitational wave detectors (Panpan)** | Noise modeling of track system | **Caiying**, Xiaoyu |
+| | Noise modeling of laser ranging system  | **Chenggang**, **Panpan**, **Caiying**, Yuanling |
+| | Noise modeling of inertial sensing system | **Jun Ke**, Panpan, Yuanling|
+| | noise reduction scheme and signal extractional | **Xiaoyu**, Yajie, Caiying |
 
-|2| **Clock system in TianQin's mission (Chenggang)** | Clock synchronization scheme | **Yajie** |
-| | | Theoretical Modeling of clock comparison  | **Yuanling** |
-| | | Noise analysis of clock system | **Panpan** |
-| | | Test of gravity theory | **Xiaoyu** |
+| **2. Clock system in TianQin's mission (Chenggang)** | Clock synchronization scheme | **Yajie** |
+| | Theoretical Modeling of clock comparison  | **Yuanling** |
+| | Noise analysis of clock system | **Panpan** |
+| | Test of gravity theory | **Xiaoyu** |
 
-|3| **Test of gravity theory using 'TianQin' dector** | Extension of standard model | **Xiaoyu**, Tao Jin |
-| | | Modified gravity theories  | **Yu Hu**, Xiaoyu, Caiying |
-| | | Black hole physics, Gravitational wave source | **Yu Hu**, **Caiying**|
-| | | Dark matter, Dark energy, cosmology | **Chenggang**, Panpan, Yajie, Yuanling |
+| **3. Test of gravity theory using 'TianQin' dector** | Extension of standard model | **Xiaoyu**, Tao Jin |
+| | Modified gravity theories  | **Yu Hu**, Xiaoyu, Caiying |
+| | Black hole physics, Gravitational wave source | **Yu Hu**, **Caiying**|
+| | Dark matter, Dark energy, cosmology | **Chenggang**, Panpan, Yajie, Yuanling |
 
-|4| **Test of general relativity using atom interfeometry technique (Yajie)** | Gravitation wave detection | **Yajie**, **Panpan** |
-| | | Theoretical modeling of measuring the gravitational constant 'G'  | **Yajie**, **Miaomiao**, Panpan |
-| | | Dark matter, Dark energy, Measuring scheme of equivalence principle | **Panpan**, **Yajie**, Yuanling |
-| | | Error analysis of atom interfeometry | **Miaomiao**, Panpan, Yajie |
-| | | Cold atom clock, Particle spain, Which way | **Yuanling** |
+| **4. Test of general relativity using atom interfeometry technique (Yajie)** | Gravitation wave detection | **Yajie**, **Panpan** |
+| | Theoretical modeling of measuring the gravitational constant 'G'  | **Yajie**, **Miaomiao**, Panpan |
+| | Dark matter, Dark energy, Measuring scheme of equivalence principle | **Panpan**, **Yajie**, Yuanling |
+| | Error analysis of atom interfeometry | **Miaomiao**, Panpan, Yajie |
+| | Cold atom clock, Particle spain, Which way | **Yuanling** |
 
 ## About Group Meetings
 
