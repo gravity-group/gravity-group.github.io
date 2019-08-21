@@ -46,13 +46,17 @@ tr:nth-child(odd) {
 | | Error analysis of atom interfeometry | **Miaomiao**, Panpan, Yajie |
 | | Cold atom clock, Particle spain, Which way | **Yuanling** |
 
-## 学生讨论时间分配
+每个任务每两周需讨论一次，任务负责人进行规划组织，每次讨论附有会议备忘录。
 
-| **任务** | **人员** | **讨论时间** |
-| 1 | Noise modeling of track system | **Caiying**, Xiaoyu |
-| | Noise modeling of laser ranging system  | **Chenggang**, **Panpan**, **Caiying**, Yuanling |
-| | Noise modeling of inertial sensing system | **Jun Ke**, Panpan, Yuanling|
-| | noise reduction scheme and signal extractional | **Xiaoyu**, Yajie, Caiying |
+## 个人与邵老师每周讨论时间分配
+
+| **人员** | **时间** | **人员** | **时间** |
+| Caiying | 19:30-20:00 | Yu Hu | 20:00-20:30 |
+| Jin Tao | 20:30-21:00 | Xiaoyu | 21:10- |
+| Wenhao, Jiaojiao | 14:40-15:00 | Miaomiao | 15:10-16:00 |
+| Yuanling | 16:10-17:00 | Yajie | 17:10-18:00 |
+| Jun Ke | 19:30-20:00 | Chenggang | 20:00-20:30 |
+| Panpan | 20:40-21:30 | Chenggang | 21:35- |
 
 ## About Group Meetings
 
