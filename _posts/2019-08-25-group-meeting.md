@@ -14,31 +14,19 @@ Yujie Tan, Chengfang Qin Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yuan
 
 ## Paper Reading/Progress of the subject
 
-Name
+Chenggang Qin
 
-**Paper presentation: ZAIGA: Zhaoshan Long-baseline Atom Interferometer Gravitation Antenna,**by M.-S. Zhan et al. 
-
-
-(the information of paper: 2019-journal)[[arXiv:1903.09288]](https://arxiv.org/abs/1903.09288)]
-
-- Corresponding files
-
-ppt[[title](https://arxiv.org/abs/1903.09288)], word [[title](https://arxiv.org/abs/1903.09288)]
-
----
-
-Name
+**Testing the universality of free fall towards dark matter with radio pulsars,**by Lijing Shao, Norbert Wex, Michael Kramer. 
 
 
-**Paper presentation: ZAIGA: Zhaoshan Long-baseline Atom Interferometer Gravitation Antenna,** by M.-S. Zhan et al. 
-
-(the information of paper: 2019-journal) [[arXiv:1903.09288]](https://arxiv.org/abs/1903.09288)]
+[[2018-PRL.120.241104](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.241104)],[[arXiv:1805.08408](https://arxiv.org/abs/1805.08408v1)]
 
 - Corresponding files
 
-ppt[[title](https://arxiv.org/abs/1903.09288)], word [[title](https://arxiv.org/abs/1903.09288)]
+[[20120818----角加速度PID控制频率的影响（含功率谱相关问题推导）](https://mail.163.com/js6/main.jsp?sid=FABTcnArCrcSAwSWBXrrqIVMjXErgZSA&df=unknow#module=read.ReadModule%7C%7B%22area%22%3A%22normal%22%2C%22isThread%22%3Afalse%2C%22viewType%22%3A%22%22%2C%22id%22%3A%22201%3A1tbiyQoY0lQHGBUtTgAAs0%22%2C%22fid%22%3A1%7D)]
 
 ---
+
 
 ## Search Paper 
 
@@ -46,18 +34,18 @@ Name
 
 **Theme**
 
-1.Paper presentation: ZAIGA: Zhaoshan Long-baseline Atom Interferometer Gravitation Antenna, by M.-S. Zhan et al. 
+1.Testing the universality of free fall towards dark matter with radio pulsars, by Lijing Shao, Norbert Wex, Michael Kramer. 
 
-(the information of paper: 2019-journal) [[arXiv:1903.09288]](https://arxiv.org/abs/1903.09288)]
 
-2.Paper presentation: ZAIGA: Zhaoshan Long-baseline Atom Interferometer Gravitation Antenna, by M.-S. Zhan et al. 
+[[2018-PRL.120.241104](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.241104)],[[arXiv:1805.08408](https://arxiv.org/abs/1805.08408v1)]
 
-(the information of paper: 2019-journal) [[arXiv:1903.09288]](https://arxiv.org/abs/1903.09288)]
-
+2.
+3.
+4.
 
 - Corresponding files
 
-ppt[[title](https://arxiv.org/abs/1903.09288)], word [[title](https://arxiv.org/abs/1903.09288)]
+[[20120818----角加速度PID控制频率的影响（含功率谱相关问题推导）](https://mail.163.com/js6/main.jsp?sid=FABTcnArCrcSAwSWBXrrqIVMjXErgZSA&df=unknow#module=read.ReadModule%7C%7B%22area%22%3A%22normal%22%2C%22isThread%22%3Afalse%2C%22viewType%22%3A%22%22%2C%22id%22%3A%22201%3A1tbiyQoY0lQHGBUtTgAAs0%22%2C%22fid%22%3A1%7D)]
 
 ---
 
