@@ -187,9 +187,43 @@ permalink: /publication/
 
 - C. Shao, D. Zheng, J. Luo, [Repulsive Casimir effect between anisotropic dielectric and permeable plates](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.201101), Physical Review A 74, 012103.
 
-- C. Shao, J. Shen, B. Wang, R. Su, [Dirac cosmology and the acceleration of the contemporary universe](http://cpl.iphy.ac.cn/Y2007/V24/I4/902), Classical and Quantum Gravity 23, 3707.
+- C. Shao, J. Shen, B. Wang, R. Su, [Dirac cosmology and the acceleration of the contemporary universe](https://iopscience.iop.org/article/10.1088/0264-9381/23/11/003), Classical and Quantum Gravity 23, 3707.
 
+- L. Tu, C. Shao, J. Luo, Jun Luo, [Test of U(1) local gauge invariance in Proca electrodynamics](https://www.sciencedirect.com/science/article/pii/S0375960105018323), Physics Letters A 352, 267.
 
+- Z. Wei, C. Shao, J. Luo, H. Houtse, [Numerical Simulation of Earth's Gravitational Field Recovery from SSt Based on the Energy Conservation Principle](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/cjg2.878), Chinese Journal of Geophysics 49, 644.
+
+- Z. Yan, C. Shao, J. Luo, [Finite Temperature Casimir Effect for Corrugated Plates](http://cpl.iphy.ac.cn/Y2006/V23/I11/2928), Chinese Physics Letters 23, 2928.
+
+- C. Shao, A. Tong, J. Luo, [Casimir Effect for Dielectric Plates](https://ctp.itp.ac.cn/EN/Y2006/V45/I03/499), Communications in Theoretical Physics 45, 499.
+
+---
+
+### 2005
+
+- C. Shao, R. Cai, B. Wang, R. Su, [An alternative explanation of the conflict between 1/R gravity and solar system tests](https://www.sciencedirect.com/science/article/pii/S0370269305017302), Physics Letters B 633, 164.
+
+- C. Shao, B. Wang, E. Abdalla, R. Su, [Quasinormal modes in a time-dependent black hole background](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.71.044003), Physics Letters D 71, 044003.
+
+- C. Shao, A. Tong, J. Luo, [Casimir torque between two birefringent plates](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.72.022102), Physics Letters A 72, 022102.
+
+- J. Luo, D. Wang, Q. Liu, C. Shao [Precise determination of period of a torsion pendulum in measurement of gravitational constant](http://cpl.iphy.ac.cn/Y2005/V22/I9/2169), Chinese Physics Letters 22, 2169.
+
+- L. Liu, C. Shao, J. Luo [Gravitational Faraday Rotation of the Earth and Its Possible Test](http://cpl.iphy.ac.cn/Y2005/V22/I12/3021), Chinese Physics Letters 22, 3021.
+
+---
+
+### 2004
+
+- C. Shao, Y. Zhang, J. Luo, [Correlation method in period measurement of a torsion pendulum](https://aip.scitation.org/doi/abs/10.1063/1.1753095), Review of Scientific Instruments 75, 1971.
+
+- Y. Tian, Y. Tu, C. Shao, [Nutational Oscillatory Effect of the Test Body in Space Equivalence Principle Experiments](https://ctp.itp.ac.cn/EN/Y2004/V41/I02/211), Communications in Theoretical Physics 41, 211.
+
+- C. Shao, E. Luan, J. Luo, [On the significance of the period fitting method](https://aip.scitation.org/doi/abs/10.1063/1.1568540), Review of Scientific Instruments 74, 2849.
+
+---
+
+### 2003
 
 
 
