@@ -80,7 +80,7 @@ permalink: /publication/
 
 ---
 
-###2015
+### 2015
 
 - C. Shao, Y. Tan, W. Tan, S. Yang, J. Luo, M. Tobar, [Search for Lorentz invariance violation through tests of the gravitational inverse square law at short ranges](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.91.102007),  Physical Review D 91, 102007.
 
@@ -101,7 +101,7 @@ permalink: /publication/
 
 ---
 
-###2014
+### 2014
 
 - C. Xue et al., [Preliminary determination of Newtonian gravitational constant with angular acceleration feedback method](https://royalsocietypublishing.org/doi/10.1098/rsta.2014.0031), Philosophical Transactions of the Royal Society A-Mathematical Physical and Engineering Sciences 372, 20140031.
 
@@ -113,7 +113,7 @@ permalink: /publication/
 
 ---
 
-###2013
+### 2013
 
 - J. Luo, C. Shao, Y. Tian, D. Wang, [Thermal noise limit in measuring the gravitational constant G using the angular acceleration method and the dynamic deflection method](https://www.sciencedirect.com/science/article/pii/S0375960113003629), Physics Letters A 377, 1397.
 
@@ -121,7 +121,7 @@ permalink: /publication/
 
 ---
 
-###2012
+### 2012
 
 - S. Yang et al., [Test of the Gravitational Inverse Square Law at Millimeter Ranges](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.081101), Physical Review Letters 108, 081101.
 
@@ -131,7 +131,7 @@ permalink: /publication/
 
 ---
 
-###2011
+### 2011
 
 - C. Shao, L. Tu, S. Yang, J. Luo [On the calculation of the gravitational torque in measuring G by a dynamic method](https://link.springer.com/article/10.1134/S0202289311020095), Gravitation and Cosmology 17, 147.
 
@@ -141,7 +141,7 @@ permalink: /publication/
 
 ---
 
-###2010
+### 2010
 
 - L. Tu et al., [New determination of the gravitational constant G with time-of-swing method](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.82.022001), Physical Review D 82, 022001.
 
@@ -149,7 +149,7 @@ permalink: /publication/
 
 ---
 
-###2009
+### 2009
 
 - J. Luo et al., [Determination of the newtonian gravitational constant G with Time-of-Swing method](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.102.240801), Physical Review Letters 102, 240801.
 
@@ -167,13 +167,13 @@ permalink: /publication/
 
 ---
 
-###2008
+### 2008
 
 - L. Liu, Q. Liu, C. Shao, Y. Zhang, J. Luo, V. Milyukov, [Measurement of Density Inhomogeneity for Glass Pendulum](http://cpl.iphy.ac.cn/Y2008/V25/I12/4203), Chinese Physics Letters 25, 4203.
 
 ---
 
-###2007
+### 2007
 
 - L. Tu, S. Guan, J. Luo, L. Liu, C. Shao, [Null Test of Newtonian Inverse-Square Law at Submillimeter Range with a Dual-Modulation Torsion Pendulum](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.201101), Physical Review Letters 98, 201101.
 
@@ -183,7 +183,7 @@ permalink: /publication/
 
 ---
 
-###2006
+### 2006
 
 - C. Shao, D. Zheng, J. Luo, [Repulsive Casimir effect between anisotropic dielectric and permeable plates](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.201101), Physical Review A 74, 012103.
 
