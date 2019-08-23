@@ -53,56 +53,6 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 ---
 
-## About research topic
-
-
-<table>
-  <tr>
-    <th>Topic</th>
-    <th>Small topic</th>
-    <th>Researchers</th>
-  </tr>
-  <tr>
-    <td>a1</td>
-    <td colspan="2">a2</td>
-  </tr>
-  <tr>
-    <td rowspan="2">b1</td>
-    <td>b2</td>
-    <td>b3</td>
-  </tr>
-  <tr>
-    <td>c2</td>
-    <td>c3</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th>Topic</th>
-    <th>Small topic</th>
-    <th>Researchers</th>
-  </tr>
-  <tr>
-    <td rowspan="4">1. Noise analysis of space-borne gravitational wave detectors (Panpan) Fri. 14:30-16:00</td>
-    <td>Noise modeling of track system </td>
-    <td>Caiying, Xiaoyu</td>
-  </tr>
-  <tr>
-    <td>Noise modeling of laser ranging system</td>
-    <td>**Chenggang**, **Panpan**, **Caiying**, Yuanling</td>
-  </tr>
-  <tr>
-    <td>Noise modeling of inertial sensing system</td>
-    <td>**Jun Ke**, Panpan, Yuanling</td>
-  </tr>
-  <tr>
-    <td>Noise reduction scheme and signal extractional</td>
-    <td>**Xiaoyu**, Yajie, Caiying</td>
-  </tr>
-
-
-
 | **Topic** | **Small topic** | **Researchers** | 
 | **1. Noise analysis of space-borne gravitational wave detectors (Panpan)** | Noise modeling of track system | **Caiying**, Xiaoyu |
 | Fri. 14:30-16:00 | Noise modeling of laser ranging system  | **Chenggang**, **Panpan**, **Caiying**, Yuanling |
@@ -145,3 +95,88 @@ For new members in the group, it is highly advisable to learn the following basi
 - Search with [Google](https://www.google.com/ncr)
 - Write with **LaTeX** and [**Overleaf**](https://www.overleaf.com): [Quick Guide to LaTeX](https://www.overleaf.com/latex/templates/a-quick-guide-to-latex/fghqpfgnxggz), [Overleaf Tutorials](https://www.overleaf.com/learn/latex/Tutorials)
 - Manage codes (your latex as well!) with **Git**: [Guide](http://rogerdudler.github.io/git-guide/), [Tutorials](https://www.atlassian.com/git/tutorials)
+
+## About research topic
+
+<table>
+  <tr>
+    <th>Topic</th>
+    <th>Small topic</th>
+    <th>Researchers</th>
+  </tr>
+  <tr>
+    <td rowspan="4">1. Noise analysis of space-borne gravitational wave detectors (Panpan) Fri. 14:30-16:00</td>
+    <td>Noise modeling of track system </td>
+    <td>Caiying, Xiaoyu</td>
+  </tr>
+  <tr>
+    <td>Noise modeling of laser ranging system</td>
+    <td>**Chenggang**, **Panpan**, **Caiying**, Yuanling</td>
+  </tr>
+  <tr>
+    <td>Noise modeling of inertial sensing system</td>
+    <td>**Jun Ke**, Panpan, Yuanling</td>
+  </tr>
+  <tr>
+    <td>Noise reduction scheme and signal extractional</td>
+    <td>**Xiaoyu**, Yajie, Caiying</td>
+  </tr>
+  
+   <tr>
+    <td rowspan="4">**2. Clock system in TianQin's mission (Chenggang)** Tue. 16:00-17:30</td>
+    <td>Clock synchronization scheme </td>
+    <td>**Yajie**</td>
+  </tr>
+  <tr>
+    <td>Theoretical Modeling of clock comparison</td>
+    <td>**Yuanling**</td>
+  </tr>
+  <tr>
+    <td>Noise analysis of clock system</td>
+    <td>**Panpan**</td>
+  </tr>
+  <tr>
+    <td>Test of gravity theory</td>
+    <td>**Xiaoyu**</td>
+  </tr> 
+  
+   <tr>
+    <td rowspan="4">**3. Test of gravity theory using 'TianQin' dector**  Fri. 14:30-16:00</td>
+    <td>Extension of standard model</td>
+    <td>**Xiaoyu**, Tao Jin</td>
+  </tr>
+  <tr>
+    <td>Modified gravity theories</td>
+    <td>**Yu Hu**, Xiaoyu, Caiying</td>
+  </tr>
+  <tr>
+    <td>Black hole physics, Gravitational wave source</td>
+    <td>**Yu Hu**, **Caiying**</td>
+  </tr>
+  <tr>
+    <td>Dark matter, Dark energy, cosmology</td>
+    <td>**Chenggang**, Panpan, Yajie, Yuanling</td>
+  </tr> 
+  
+   <tr>
+    <td rowspan="5"> **4. Test of general relativity using atom interfeometry technique (Yajie)**  Tue. 16:00-17:30</td>
+    <td>Gravitation wave detection</td>
+    <td>**Yajie**, **Panpan**</td>
+  </tr>
+  <tr>
+    <td>Theoretical modeling of measuring the gravitational constant 'G'</td>
+    <td>**Yajie**, **Miaomiao**, Panpan</td>
+  </tr>
+  <tr>
+    <td>Dark matter, Dark energy, Measuring scheme of equivalence principle</td>
+    <td>**Panpan**, **Yajie**, Yuanling</td>
+  </tr>
+  <tr>
+    <td>Error analysis of atom interfeometry</td>
+    <td>**Miaomiao**, Panpan, Yajie</td>
+  </tr> 
+  <tr>
+    <td>Cold atom clock, Particle spain, Which way</td>
+    <td>**Yuanling**</td>
+  </tr> 
+
