@@ -6,7 +6,7 @@ permalink: /publication/
 
 ### 代表性论著
 
-- Qing Li et al., [Measurements of the gravitational constant using two independent methods](https://arxiv.org/abs/1907.00780), Nature, 560: 582~588.
+- Qing Li et al., [Measurements of the gravitational constant using two independent methods](https://www.nature.com/articles/s41586-018-0431-5), Nature, 560: 582~588.
 
 - C. Shao et al., [Combined Search for a Lorentz-Violating Force in Short-Range Gravity Varying as the Inverse Sixth Power of Distance](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.011102), Physical Review Letters 122, 011102.
 
