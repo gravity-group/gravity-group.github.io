@@ -55,11 +55,59 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 ## About research topic
 
+
+<table>
+  <tr>
+    <th>Topic</th>
+    <th>Small topic</th>
+    <th>Researchers</th>
+  </tr>
+  <tr>
+    <td>a1</td>
+    <td colspan="2">a2</td>
+  </tr>
+  <tr>
+    <td rowspan="2">b1</td>
+    <td>b2</td>
+    <td>b3</td>
+  </tr>
+  <tr>
+    <td>c2</td>
+    <td>c3</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Topic</th>
+    <th>Small topic</th>
+    <th>Researchers</th>
+  </tr>
+  <tr>
+    <td rowspan="4">1. Noise analysis of space-borne gravitational wave detectors (Panpan) Fri. 14:30-16:00</td>
+    <td>Noise modeling of track system </td>
+    <td>Caiying, Xiaoyu</td>
+  </tr>
+  <tr>
+    <td>Noise modeling of laser ranging system</td>
+    <td>**Chenggang**, **Panpan**, **Caiying**, Yuanling</td>
+  </tr>
+  <tr>
+    <td>Noise modeling of inertial sensing system</td>
+    <td>**Jun Ke**, Panpan, Yuanling</td>
+  </tr>
+  <tr>
+    <td>Noise reduction scheme and signal extractional</td>
+    <td>**Xiaoyu**, Yajie, Caiying</td>
+  </tr>
+
+
+
 | **Topic** | **Small topic** | **Researchers** | 
 | **1. Noise analysis of space-borne gravitational wave detectors (Panpan)** | Noise modeling of track system | **Caiying**, Xiaoyu |
 | Fri. 14:30-16:00 | Noise modeling of laser ranging system  | **Chenggang**, **Panpan**, **Caiying**, Yuanling |
 |  | Noise modeling of inertial sensing system | **Jun Ke**, Panpan, Yuanling|
-|  | noise reduction scheme and signal extractional | **Xiaoyu**, Yajie, Caiying |
+|  | Noise reduction scheme and signal extractional | **Xiaoyu**, Yajie, Caiying |
 | **2. Clock system in TianQin's mission (Chenggang)** | Clock synchronization scheme | **Yajie** |
 | Tue. 16:00-17:30  | Theoretical Modeling of clock comparison  | **Yuanling** |
 | | Noise analysis of clock system | **Panpan** |
