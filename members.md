@@ -124,7 +124,26 @@ Equivalence principle <br>
 
 <p></p>
 
-
+<table>
+  <tr>
+    <th>项目1</th>
+    <th>项目2</th>
+    <th>项目3</th>
+  </tr>
+  <tr>
+    <td>a1</td>
+    <td colspan="2">a2</td>
+  </tr>
+  <tr>
+    <td rowspan="2">b1</td>
+    <td>b2</td>
+    <td>b3</td>
+  </tr>
+  <tr>
+    <td>c2</td>
+    <td>c3</td>
+  </tr>
+</table>
 
 
 
