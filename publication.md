@@ -225,6 +225,40 @@ permalink: /publication/
 
 ### 2003
 
+- C. Shao, E. Luan, Jun Luo, [On the significance of the period fitting method](https://aip.scitation.org/doi/abs/10.1063/1.1568540), Review of Scientific Instruments 74, 2849.
 
+- C. Shao, Y. Zhang, Z. Liu, J. Luo, [Exact representation of crossover of transitions from first order to second order in the Potts model for rumor transmission](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.68.016120), Physical Review E 68, 016120.
+
+- C. Shao, Y. Zhang, E. Luan, J. Luo, Z. Liu, [Effect of Earth's Rotation on Trajectories of Free-Fall Bodies in Equivalence Principle Experiment](https://iopscience.iop.org/article/10.1088/0253-6102/39/3/297), Communications in Theoretical Physics 39, 297.
+
+---
+
+### 2002
+
+- Z. Zhou et al., [Exact representation of crossover of transitions from first order to second order in the Potts model for rumor transmission](https://www.worldscientific.com/doi/10.1142/S0218271802002633), International Journal of Modern Physics D 11, 1149.
+
+---
+
+### 2001
+
+- Z. Liu, J. Luo, C. Shao, [Potts model for exaggeration of a simple rumor transmitted by recreant rumormongers](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.64.046134), Physical Review E 64, 046134.
+
+---
+
+### 2000
+
+- Z. Liu, J. Luo, C. Shao, [Ratio of canonical and microcanonical temperatures of a vibratory antiferromagnetic Ising chain](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.61.2089), Physical Review E 61, 2089.
+
+- Z. Liu, J. Luo, C. Shao, L. Yu, [A representation of sonoluminescence spectra](https://iopscience.iop.org/article/10.1088/0953-4075/33/20/321), Jouranl of Physics B-Atomic Molecular and Optical Physics 33, 4495.
+
+- J. Luo, C. Shao, Z. Liu, Z. Hu, [Determination of the limit of photon mass and cosmic magnetic vector with rotating torsion balance](https://www.sciencedirect.com/science/article/pii/S0375960100003224), Physics Letters A 270, 288.
+
+---
+
+### 1999
+
+- Z. Liu, C. Shao, J. Luo, [Casimir force between metal plate and dielectric plate](http://engine.scichina.com/publisher/scp/journal/Math%20A2/42/11/10.1007/BF02875987?slug=abstract), Science in China Series A-Mathematics 42, 1201.
+
+- C. Shao, Z. Liu, J. Luo, [Casimir Effect Between Plates with Oxide Film](http://cpl.iphy.ac.cn/Y1999/V16/I6/400), Chinese Physics Letters 16, 400.
 
 ---
