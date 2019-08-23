@@ -105,7 +105,7 @@ For new members in the group, it is highly advisable to learn the following basi
     <th>Researchers</th>
   </tr>
   <tr>
-    <td rowspan="4"><strong>1. Noise analysis of space-borne gravitational wave detectors (Panpan)<strong> Fri. 14:30-16:00</td>
+    <td rowspan="4"><b>1. Noise analysis of space-borne gravitational wave detectors (Panpan)<b> Fri. 14:30-16:00</td>
     <td>Noise modeling of track system </td>
     <td>Caiying, Xiaoyu</td>
   </tr>
