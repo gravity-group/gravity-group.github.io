@@ -105,7 +105,7 @@ tr:nth-child(odd) {
   </tr> 
   
    <tr>
-    <td rowspan="4"><b>3. Test of gravity theory using 'TianQin' dector</b>  Mon. 19:10-20:40 </td>
+    <td rowspan="4"><b>3. Test of gravity theory using 'TianQin' dector （Xiaoyu）</b>  Mon. 19:10-20:40 </td>
     <td>Extension of standard model</td>
     <td><b>Xiaoyu</b>, Tao Jin</td>
   </tr>
