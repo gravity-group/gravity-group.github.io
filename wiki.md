@@ -24,20 +24,31 @@ tr:nth-child(odd) {
 
 ## About Group Meetings
 
-Group meeting provides a friendly environment to interact with group
-members or visiting scholars.  It also brings the opportunity to broaden views
-in science, to learn different methods in solving problems, to strengthen the
-capability in scientifically sound presentations, even to develop close
-collaborations via inspiring discussions. 
+组会时间：每周一次，周日上午9:30
 
-1. 进展报告：一是大任务的总结及遗留问题（做会议备忘录同学负责），二是推荐重要进展讲解。 
+1. 任务进展汇报：一是大任务的总结及遗留问题（做会议备忘录同学负责），二是推荐重要进展讲解。 
 
 2. 文献讲解：讲解自己最近阅读的与工作相关的而重要文献、或较新文献，突出讲解别人的动机、方法、结果，有没有不完善的，有没有值得我们借鉴的。注：文献讲解需提前将文献阅读报告及文献发到群里！
 
-3. 文献查新：讲解与自己课题相关的最新文献7-10篇（用PDF文献直接讲解，指出每篇文献的主要想法）。
+文献查新：讲解与自己课题相关的最新文献7-10篇，（用PDF文献直接讲解，指出每篇文献的主要想法）。注：讲解的文献，整理一下，按重要顺序排列123、、，然后做一个word/excel做一个目录/列表，例如：
+1. 2019--PRL--编号   文章名字   第一作者名字  文章网址
+2. 
+3. 
+。。。
+每人每学期至少上交规范化报告和ppt各2份（格式：20190825--报告人--题目）！
+
+| **日期** | **进展汇报** | **文献讲解** | **文献查新** | **日期** | **进展汇报** | **文献讲解** | **文献查新** |
+| 8.26 | 任务进展汇报 | 秦成刚 | 王盼盼 | 11.17 | 任务进展汇报 | 路晓宇 |  邵才莹 |
+| 09.08 | 任务进展汇报 | 路晓宇、金涛 |  胡宇 | 11.24 | 任务进展汇报 | 赵苗苗 |  |
+| 09.22 | 任务进展汇报 | 邵才莹、王盼盼 |  | 12.01 | 任务进展汇报 | 王盼盼 |  |
+| 09.29 | 任务进展汇报 | 赵苗苗 | | 12.08 | 任务进展汇报 | 王亚杰 |  赵苗苗 |
+| 10.13 | 任务进展汇报 | 王亚杰 | | 12.15 | 任务进展汇报 | 毛娇娇，吴文浩 |  路晓宇 |
+| 10.20 | 任务进展汇报 | 胡宇 |  秦成刚 | 12.22 | 任务进展汇报 | 赵援羚、柯俊 |  |
+| 10.27 | 任务进展汇报 | 赵媛羚 |  | 12.29 | 任务进展汇报 | 邵才莹 |  胡宇|
+| 11.03 | 任务进展汇报 | 柯俊 |  | 0.05 | 任务进展汇报 | 路晓宇、金涛 | |
+| 11.10 | 任务进展汇报 | 秦成刚 |  王亚杰 | 0.12 | 任务进展汇报 | 胡宇、金涛 | |
 
 
-| **FORMAT** | **DURATION** | **NOTE** |
 | **General News** | about 5 min |
 | **Literature Reading** | < 15 min | <small>Sometimes, you only have 10 minutes to explain the <b>main</b> idea of a paper! |
 | **Paper Presentation** | about 1 hr | <small><b>PLEASE</b> announce the paper at least one week in advance! |
@@ -55,13 +66,12 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 ## 个人与邵老师每周讨论时间分配
 
-| **人员** | **时间** | **人员** | **时间** |
-| Caiying | Tue. 19:30-20:00 | Yu Hu | Tue. 20:00-20:30 |
-| Jin Tao | Tue. 20:30-21:00 | Xiaoyu | Tue. 21:10- |
-| Wenhao, Jiaojiao | Wed. 14:40-15:00 | Miaomiao | Wed. 15:10-16:00 |
-| Yuanling | Wed. 16:10-17:00 | Yajie | Wed. 17:10-18:00 |
-| Jun Ke | Wed. 19:30-20:00 | Chenggang | Wed. 20:00-20:30 |
-| Panpan | Wed. 20:40-21:30 | Chenggang | Wed. 21:35- |
+| **编号** | **人员（周二 19：30-）** | **人员（周二 14：30-）** | **人员（周二 19：30-）** |
+| 1| 邵才莹，胡宇 | 赵苗苗 | 秦成刚，毛娇娇、吴文浩 |
+| 2 | 金涛、金涛 | 赵媛羚| 王亚杰 |
+| 2 | 王盼盼 | | 路晓宇 |
+
+每次讨论按照编号1-2-3的顺序，如遇特殊情况不能参与讨论者，可另约时间
 
 ---
 
@@ -73,7 +83,11 @@ For new members in the group, it is highly advisable to learn the following basi
 - Write with **LaTeX** and [**Overleaf**](https://www.overleaf.com): [Quick Guide to LaTeX](https://www.overleaf.com/latex/templates/a-quick-guide-to-latex/fghqpfgnxggz), [Overleaf Tutorials](https://www.overleaf.com/learn/latex/Tutorials)
 - Manage codes (your latex as well!) with **Git**: [Guide](http://rogerdudler.github.io/git-guide/), [Tutorials](https://www.atlassian.com/git/tutorials)
 
-## About research topic
+## 讨论时间分配
+
+###### 学生讨论会时间分配（每个任务两周讨论一次, 其中1,2人员一起，3,4人员一起）
+
+###### 每个任务每两周需讨论一次，任务负责人进行规划组织，每次讨论附有会议备忘录（中英版本）。
 
 <table>
   <tr>
@@ -82,7 +96,7 @@ For new members in the group, it is highly advisable to learn the following basi
     <th>Researchers</th>
   </tr>
   <tr>
-    <td rowspan="4"><b>1. Noise analysis of space-borne gravitational wave detectors (Panpan)</b> Fri. 14:30-16:00</td>
+    <td rowspan="4"><b>1. Noise analysis of space-borne gravitational wave detectors (Panpan)</b> Mon. 19:10-20:40</td>
     <td>Noise modeling of track system </td>
     <td><b>Caiying</b>, Xiaoyu</td>
   </tr>
@@ -100,7 +114,7 @@ For new members in the group, it is highly advisable to learn the following basi
   </tr>
   
    <tr>
-    <td rowspan="4"><b>2. Clock system in TianQin's mission (Chenggang)</b> Tue. 16:00-17:30</td>
+    <td rowspan="4"><b>2. Clock system in TianQin's mission (Chenggang)</b> Mon. 20:50-22:20</td>
     <td>Clock synchronization scheme </td>
     <td><b>Yajie</b></td>
   </tr>
@@ -118,7 +132,7 @@ For new members in the group, it is highly advisable to learn the following basi
   </tr> 
   
    <tr>
-    <td rowspan="4">**3. Test of gravity theory using 'TianQin' dector**  Fri. 14:30-16:00</td>
+    <td rowspan="4"><b>3. Test of gravity theory using 'TianQin' dector</b>  Mon. 19:10-20:40 </td>
     <td>Extension of standard model</td>
     <td><b>Xiaoyu</b>, Tao Jin</td>
   </tr>
@@ -136,7 +150,7 @@ For new members in the group, it is highly advisable to learn the following basi
   </tr> 
   
    <tr>
-    <td rowspan="5"> <b>4. Test of general relativity using atom interfeometry technique (Yajie)</b> Tue. 16:00-17:30</td>
+    <td rowspan="5"> <b>4. Test of general relativity using atom interfeometry technique (Yajie)</b> Mon 20:50-22:20 </td>
     <td>Gravitation wave detection</td>
     <td><b>Yajie, Panpan</b></td>
   </tr>
@@ -156,5 +170,3 @@ For new members in the group, it is highly advisable to learn the following basi
     <td>Cold atom clock, Particle spain, Which way</td>
     <td><b>Yuanling</b></td>
   </tr> 
-
-**每个任务每两周需讨论一次，任务负责人进行规划组织，每次讨论附有会议备忘录。**
