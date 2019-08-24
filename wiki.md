@@ -53,29 +53,6 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 ---
 
-| **Topic** | **Small topic** | **Researchers** | 
-| **1. Noise analysis of space-borne gravitational wave detectors (Panpan)** | Noise modeling of track system | **Caiying**, Xiaoyu |
-| Fri. 14:30-16:00 | Noise modeling of laser ranging system  | **Chenggang**, **Panpan**, **Caiying**, Yuanling |
-|  | Noise modeling of inertial sensing system | **Jun Ke**, Panpan, Yuanling|
-|  | Noise reduction scheme and signal extractional | **Xiaoyu**, Yajie, Caiying |
-| **2. Clock system in TianQin's mission (Chenggang)** | Clock synchronization scheme | **Yajie** |
-| Tue. 16:00-17:30  | Theoretical Modeling of clock comparison  | **Yuanling** |
-| | Noise analysis of clock system | **Panpan** |
-| | Test of gravity theory | **Xiaoyu** |
-| **3. Test of gravity theory using 'TianQin' dector** | Extension of standard model | **Xiaoyu**, Tao Jin |
-| Fri. 14:30-16:00  | Modified gravity theories  | **Yu Hu**, Xiaoyu, Caiying |
-| | Black hole physics, Gravitational wave source | **Yu Hu**, **Caiying**|
-| | Dark matter, Dark energy, cosmology | **Chenggang**, Panpan, Yajie, Yuanling |
-| **4. Test of general relativity using atom interfeometry technique (Yajie)** | Gravitation wave detection | **Yajie**, **Panpan** |
-| Tue. 16:00-17:30 | Theoretical modeling of measuring the gravitational constant 'G'  | **Yajie**, **Miaomiao**, Panpan |
-| | Dark matter, Dark energy, Measuring scheme of equivalence principle | **Panpan**, **Yajie**, Yuanling |
-| | Error analysis of atom interfeometry | **Miaomiao**, Panpan, Yajie |
-| | Cold atom clock, Particle spain, Which way | **Yuanling** |
-
-**每个任务每两周需讨论一次，任务负责人进行规划组织，每次讨论附有会议备忘录。**
-
----
-
 ## 个人与邵老师每周讨论时间分配
 
 | **人员** | **时间** | **人员** | **时间** |
@@ -107,76 +84,77 @@ For new members in the group, it is highly advisable to learn the following basi
   <tr>
     <td rowspan="4"><b>1. Noise analysis of space-borne gravitational wave detectors (Panpan)</b> Fri. 14:30-16:00</td>
     <td>Noise modeling of track system </td>
-    <td>Caiying, Xiaoyu</td>
+    <td><b>Caiying</b>, Xiaoyu</td>
   </tr>
   <tr>
     <td>Noise modeling of laser ranging system</td>
-    <td>**Chenggang**, **Panpan**, **Caiying**, Yuanling</td>
+    <td><b>Chenggang, Panpan, Caiying</b>, Yuanling</td>
   </tr>
   <tr>
     <td>Noise modeling of inertial sensing system</td>
-    <td>**Jun Ke**, Panpan, Yuanling</td>
+    <td><b>Jun Ke</b>, Panpan, Yuanling</td>
   </tr>
   <tr>
     <td>Noise reduction scheme and signal extractional</td>
-    <td>**Xiaoyu**, Yajie, Caiying</td>
+    <td><b>Xiaoyu</b>, Yajie, Caiying</td>
   </tr>
   
    <tr>
-    <td rowspan="4">**2. Clock system in TianQin's mission (Chenggang)** Tue. 16:00-17:30</td>
+    <td rowspan="4"><b>2. Clock system in TianQin's mission (Chenggang)</b> Tue. 16:00-17:30</td>
     <td>Clock synchronization scheme </td>
-    <td>**Yajie**</td>
+    <td><b>Yajie</b></td>
   </tr>
   <tr>
     <td>Theoretical Modeling of clock comparison</td>
-    <td>**Yuanling**</td>
+    <td><b>Yuanling</b></td>
   </tr>
   <tr>
     <td>Noise analysis of clock system</td>
-    <td>**Panpan**</td>
+    <td><b>Panpan</b></td>
   </tr>
   <tr>
     <td>Test of gravity theory</td>
-    <td>**Xiaoyu**</td>
+    <td><b>Xiaoyu</b></td>
   </tr> 
   
    <tr>
     <td rowspan="4">**3. Test of gravity theory using 'TianQin' dector**  Fri. 14:30-16:00</td>
     <td>Extension of standard model</td>
-    <td>**Xiaoyu**, Tao Jin</td>
+    <td><b>Xiaoyu</b>, Tao Jin</td>
   </tr>
   <tr>
     <td>Modified gravity theories</td>
-    <td>**Yu Hu**, Xiaoyu, Caiying</td>
+    <td><b>Yu Hu</b>, Xiaoyu, Caiying</td>
   </tr>
   <tr>
     <td>Black hole physics, Gravitational wave source</td>
-    <td>**Yu Hu**, **Caiying**</td>
+    <td><b>Yu Hu, Caiying</b></td>
   </tr>
   <tr>
     <td>Dark matter, Dark energy, cosmology</td>
-    <td>**Chenggang**, Panpan, Yajie, Yuanling</td>
+    <td><b>Chenggang</b>, Panpan, Yajie, Yuanling</td>
   </tr> 
   
    <tr>
-    <td rowspan="5"> **4. Test of general relativity using atom interfeometry technique (Yajie)**  Tue. 16:00-17:30</td>
+    <td rowspan="5"> <b>4. Test of general relativity using atom interfeometry technique (Yajie)</b> Tue. 16:00-17:30</td>
     <td>Gravitation wave detection</td>
-    <td>**Yajie**, **Panpan**</td>
+    <td><b>Yajie, Panpan</b></td>
   </tr>
   <tr>
     <td>Theoretical modeling of measuring the gravitational constant 'G'</td>
-    <td>**Yajie**, **Miaomiao**, Panpan</td>
+    <td><b>Yajie, Miaomiao</b>, Panpan</td>
   </tr>
   <tr>
     <td>Dark matter, Dark energy, Measuring scheme of equivalence principle</td>
-    <td>**Panpan**, **Yajie**, Yuanling</td>
+    <td><b>Panpan, Yajie</b>, Yuanling</td>
   </tr>
   <tr>
     <td>Error analysis of atom interfeometry</td>
-    <td>**Miaomiao**, Panpan, Yajie</td>
+    <td><b>Miaomiao</b>, Panpan, Yajie</td>
   </tr> 
   <tr>
     <td>Cold atom clock, Particle spain, Which way</td>
-    <td>**Yuanling**</td>
+    <td><b>Yuanling</b></td>
   </tr> 
 
+**每个任务每两周需讨论一次，任务负责人进行规划组织，每次讨论附有会议备忘录。**
