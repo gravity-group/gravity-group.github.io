@@ -46,15 +46,6 @@ tr:nth-child(odd) {
 | 11.03 | 任务进展汇报 | 柯俊 |  | 0.05 | 任务进展汇报 | 路晓宇、金涛 | |
 | 11.10 | 任务进展汇报 | 秦成刚 |  王亚杰 | 0.12 | 任务进展汇报 | 胡宇、金涛 | |
 
-
-| **General News** | about 5 min |
-| **Literature Reading** | < 15 min | <small>Sometimes, you only have 10 minutes to explain the <b>main</b> idea of a paper! |
-| **Paper Presentation** | about 1 hr | <small><b>PLEASE</b> announce the paper at least one week in advance! |
-| **Break** | 5 min | |
-| **Updates on Projects** | indefinite | <small>Those who are not involved are free to leave. |
-
-<p></p>
-
 ---
 
 ## 个人与邵老师每周讨论时间分配
