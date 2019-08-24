@@ -30,10 +30,8 @@ tr:nth-child(odd) {
 
 2. 文献讲解：讲解自己最近阅读的与工作相关的而重要文献、或较新文献，突出讲解别人的动机、方法、结果，有没有不完善的，有没有值得我们借鉴的。注：文献讲解需提前将文献阅读报告及文献发到群里！
 
-文献查新：讲解与自己课题相关的最新文献7-10篇，（用PDF文献直接讲解，指出每篇文献的主要想法）。注：讲解的文献，整理一下，按重要顺序排列123、、，然后做一个word/excel做一个目录/列表，例如：
+3. 文献查新：讲解与自己课题相关的最新文献7-10篇，（用PDF文献直接讲解，指出每篇文献的主要想法）。注：讲解的文献，整理一下，按重要顺序排列123、、，然后做一个word/excel做一个目录/列表，例如：
 1. 2019--PRL--编号   文章名字   第一作者名字  文章网址
-2. 
-3. 
 。。。
 每人每学期至少上交规范化报告和ppt各2份（格式：20190825--报告人--题目）！
 
@@ -57,11 +55,6 @@ tr:nth-child(odd) {
 
 <p></p>
 
-We have a Journal Club **Gravitational Astrophysics** on
-[benty-fields](https://benty-fields.com/). Everyone is free to join.
-
-<p></p>
-
 ---
 
 ## 个人与邵老师每周讨论时间分配
@@ -75,17 +68,9 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 ---
 
-## Useful Tools
-
-For new members in the group, it is highly advisable to learn the following basic tools. They will surely benefit the rest of your scientific life.
-
-- Search with [Google](https://www.google.com/ncr)
-- Write with **LaTeX** and [**Overleaf**](https://www.overleaf.com): [Quick Guide to LaTeX](https://www.overleaf.com/latex/templates/a-quick-guide-to-latex/fghqpfgnxggz), [Overleaf Tutorials](https://www.overleaf.com/learn/latex/Tutorials)
-- Manage codes (your latex as well!) with **Git**: [Guide](http://rogerdudler.github.io/git-guide/), [Tutorials](https://www.atlassian.com/git/tutorials)
-
 ## 讨论时间分配
 
-###### 学生讨论会时间分配（每个任务两周讨论一次, 其中1,2人员一起，3,4人员一起）
+###### 学生讨论会时间分配（每个任务两周讨论一次, 其中1, 2人员一起，3, 4人员一起）
 
 ###### 每个任务每两周需讨论一次，任务负责人进行规划组织，每次讨论附有会议备忘录（中英版本）。
 
