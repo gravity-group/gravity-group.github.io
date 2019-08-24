@@ -4,7 +4,7 @@ title: Publication
 permalink: /publication/
 ---
 
-### 代表性论著
+### Representative works
 
 - Qing Li et al., [Measurements of the gravitational constant using two independent methods](https://www.nature.com/articles/s41586-018-0431-5), Nature, 560: 582~588.
 
