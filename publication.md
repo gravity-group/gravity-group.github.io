@@ -12,7 +12,7 @@ permalink: /publication/
 
 - C. G. Shao et al., [Combined search for Lorentz violation in short-range gravity](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.071102), Physical Review Letters 117, 071102.
 
-- C. G. Shao, Y. F. Chen, R. Sun; L. S. Cao, M. K. Zhou, Z. K. Hu, [Limits on Lorentz violation in gravity from worldwide superconducting gravimetersy](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.024019), Physical Review D 97, 024019.
+- C. G. Shao, Y. F. Chen, R. Sun, L. S. Cao, M. K. Zhou, Z. K. Hu, [Limits on Lorentz violation in gravity from worldwide superconducting gravimetersy](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.024019), Physical Review D 97, 024019.
 
 - C. G. Shao et al., [Raman-pulse-duration effect in gravity gradiometers composed of two atom interferometers](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.053613), Physical Review A 92, 053613.
 
@@ -109,13 +109,13 @@ permalink: /publication/
 
 - L. D. Quan et al., [Feedback control of torsion balance in measurement of gravitational constant G with angular acceleration method](https://aip.scitation.org/doi/full/10.1063/1.4861189),  Review of Scientific Instruments 85, 014501.
 
-- L. Liu, C. G. Shao, [On the measurement for the speed of gravity](http://engine.scichina.com/publisher/scp/journal/Sci%20Bull%20Chin/59/9/10.1007/s11434-013-0107-3?slug=abstract),  Chinese Science Bulletin 59, 828.
+- L. X. Liu, C. G. Shao, [On the measurement for the speed of gravity](http://engine.scichina.com/publisher/scp/journal/Sci%20Bull%20Chin/59/9/10.1007/s11434-013-0107-3?slug=abstract),  Chinese Science Bulletin 59, 828.
 
 ---
 
 ### 2013
 
-- J. Luo, C. Shao, Y. Tian, D. Wang, [Thermal noise limit in measuring the gravitational constant G using the angular acceleration method and the dynamic deflection method](https://www.sciencedirect.com/science/article/pii/S0375960113003629), Physics Letters A 377, 1397.
+- J. Luo, C. G. Shao, Y. Tian, D. H. Wang, [Thermal noise limit in measuring the gravitational constant G using the angular acceleration method and the dynamic deflection method](https://www.sciencedirect.com/science/article/pii/S0375960113003629), Physics Letters A 377, 1397.
 
 - J. Luo et al., [Progress in Laboratory Gravitational Experiments in Hust Group](https://www.researchgate.net/publication/260631981_Progress_in_Laboratory_Gravitational_Experiments_in_Hust_Group),  International Journal of Modern Physics D 22, 1360006.
 
@@ -225,7 +225,7 @@ permalink: /publication/
 
 ### 2003
 
-- C. g. Shao, E. J. Luan, J. Luo, [On the significance of the period fitting method](https://aip.scitation.org/doi/abs/10.1063/1.1568540), Review of Scientific Instruments 74, 2849.
+- C. G. Shao, E. J. Luan, J. Luo, [On the significance of the period fitting method](https://aip.scitation.org/doi/abs/10.1063/1.1568540), Review of Scientific Instruments 74, 2849.
 
 - C. G. Shao, Y. Z. Zhang, Z. Z. Liu, J. Luo, [Exact representation of crossover of transitions from first order to second order in the Potts model for rumor transmission](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.68.016120), Physical Review E 68, 016120.
 
