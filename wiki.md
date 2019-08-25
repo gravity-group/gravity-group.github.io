@@ -38,10 +38,10 @@ tr:nth-child(odd) {
 | 09.22 | 任务进展汇报 | 邵才莹、王盼盼 |  | 12.01 | 任务进展汇报 | 王盼盼 |  |
 | 09.29 | 任务进展汇报 | 赵苗苗 | | 12.08 | 任务进展汇报 | 王亚杰 |  赵苗苗 |
 | 10.13 | 任务进展汇报 | 王亚杰 | | 12.15 | 任务进展汇报 | 毛娇娇，吴文浩 |  路晓宇 |
-| 10.20 | 任务进展汇报 | 胡宇 |  秦成刚 | 12.22 | 任务进展汇报 | 赵援羚、柯俊 |  |
+| 10.20 | 任务进展汇报 | 胡宇 |  秦成刚 | 12.22 | 任务进展汇报 | 赵媛羚、柯俊 |  |
 | 10.27 | 任务进展汇报 | 赵媛羚 |  | 12.29 | 任务进展汇报 | 邵才莹 |  胡宇|
-| 11.03 | 任务进展汇报 | 柯俊 |  | 0.05 | 任务进展汇报 | 路晓宇、金涛 | |
-| 11.10 | 任务进展汇报 | 秦成刚 |  王亚杰 | 0.12 | 任务进展汇报 | 胡宇、金涛 | |
+| 11.03 | 任务进展汇报 | 柯俊 |  | 01.05 | 任务进展汇报 | 路晓宇、金涛 | |
+| 11.10 | 任务进展汇报 | 秦成刚 |  王亚杰 | 01.12 | 任务进展汇报 | 胡宇、金涛 | |
 
 ---
 
@@ -49,7 +49,7 @@ tr:nth-child(odd) {
 
 ##### 每次讨论按照编号1-2-3的顺序，如遇特殊情况不能参与讨论者，可另约时间。
 
-| **编号** | **人员（周二 19：30-）** | **人员（周二 14：30-）** | **人员（周二 19：30-）** |
+| **编号** | **人员（周二 19：30-）** | **人员（周三 14：30-）** | **人员（周三 19：30-）** |
 | 1| 邵才莹，胡宇 | 赵苗苗 | 秦成刚，毛娇娇、吴文浩 |
 | 2 | 金涛、柯俊 | 赵媛羚| 王亚杰 |
 | 3 | 王盼盼 | | 路晓宇 |
@@ -70,19 +70,19 @@ tr:nth-child(odd) {
   </tr>
   <tr>
     <td rowspan="4"><b>1. Noise analysis of space-borne gravitational wave detectors (Panpan)</b> Mon. 19:10-20:40</td>
-    <td>Noise modeling of track system </td>
+    <td>Noise modeling of the track system </td>
     <td><b>Caiying</b>, Xiaoyu</td>
   </tr>
   <tr>
-    <td>Noise modeling of laser ranging system</td>
+    <td>Noise modeling of the laser ranging system</td>
     <td><b>Chenggang, Panpan, Caiying</b>, Yuanling</td>
   </tr>
   <tr>
-    <td>Noise modeling of inertial sensing system</td>
+    <td>Noise modeling of the inertial sensing system</td>
     <td><b>Jun Ke</b>, Panpan, Yuanling</td>
   </tr>
   <tr>
-    <td>Noise reduction scheme and signal extractional</td>
+    <td>Noise reduction scheme and signal extraction</td>
     <td><b>Xiaoyu</b>, Yajie, Caiying</td>
   </tr>
   
@@ -92,15 +92,15 @@ tr:nth-child(odd) {
     <td><b>Yajie</b></td>
   </tr>
   <tr>
-    <td>Theoretical Modeling of clock comparison</td>
+    <td>Theoretical Modeling of the clock comparison</td>
     <td><b>Yuanling</b></td>
   </tr>
   <tr>
-    <td>Noise analysis of clock system</td>
+    <td>Noise analysis of the clock system</td>
     <td><b>Panpan</b></td>
   </tr>
   <tr>
-    <td>Test of gravity theory</td>
+    <td>Test of the gravity theory</td>
     <td><b>Xiaoyu</b></td>
   </tr> 
   
@@ -123,7 +123,7 @@ tr:nth-child(odd) {
   </tr> 
   
    <tr>
-    <td rowspan="5"> <b>4. Test of general relativity using atom interfeometry technique (Yajie)</b> Mon 20:50-22:20 </td>
+    <td rowspan="5"> <b>4. Test of general relativity using atom interferometry technique (Yajie)</b> Mon 20:50-22:20 </td>
     <td>Gravitation wave detection</td>
     <td><b>Yajie, Panpan</b></td>
   </tr>
@@ -136,10 +136,10 @@ tr:nth-child(odd) {
     <td><b>Panpan, Yajie</b>, Yuanling</td>
   </tr>
   <tr>
-    <td>Error analysis of atom interfeometry</td>
+    <td>Error analysis of the atom interferometry</td>
     <td><b>Miaomiao</b>, Panpan, Yajie</td>
   </tr> 
   <tr>
-    <td>Cold atom clock, Particle spain, Which way</td>
+    <td>Cold atom clock, Particle spin, Which way</td>
     <td><b>Yuanling</b></td>
   </tr> 

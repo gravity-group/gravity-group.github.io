@@ -27,15 +27,15 @@ tr:nth-child(odd) {
 We are broadly interested in various topics related to **gravitational and Quantum theory**. In particular we enjoyed working on
 
 **1. Noise analysis of space-borne gravitational wave detectors**
-- Noise modeling of track system
-- Noise modeling of laser ranging system
-- Noise modeling of inertial sensing system
-- Noise reduction scheme and signal extractional
+- Noise modeling of the track system
+- Noise modeling of the laser ranging system
+- Noise modeling of the inertial sensing system
+- Noise reduction scheme and signal extraction
 
 **2. Clock system in TianQin's mission**
 - Clock synchronization scheme
-- Theoretical Modeling of clock comparison
-- Noise analysis of clock system 
+- Theoretical Modeling of the clock comparison
+- Noise analysis of the clock system 
 - Test of gravity theory
 
 **3. Test of gravity theory using 'TianQin' dector**
@@ -48,8 +48,8 @@ We are broadly interested in various topics related to **gravitational and Quant
 - Gravitation wave detection
 - Theoretical modeling of measuring the gravitational constant 'G'
 - Dark matter, Dark energy, Measuring scheme of equivalence principle
-- Error analysis of atom interfeometry
-- Cold atom clock, Particle spain, Which way
+- Error analysis of atom interferometry
+- Cold atom clock, Particle spin, Which way
 
 ### Welcome to Join our Research
 
