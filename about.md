@@ -24,44 +24,41 @@ tr:nth-child(odd) {
 
 ## Research Interests 
 
-We are broadly interested in various topics related to **gravitational and Quantum theory**, in particular we enjoyed working on
+We are broadly interested in various topics related to **gravitational and Quantum theory**. In particular we enjoyed working on
 
 **1. Noise analysis of space-borne gravitational wave detectors**
-- a. Noise modeling of track system
-- b. Noise modeling of laser ranging system
-- c. Noise modeling of inertial sensing system
-- d. noise reduction scheme and signal extractional
+- Noise modeling of track system
+- Noise modeling of laser ranging system
+- Noise modeling of inertial sensing system
+- Noise reduction scheme and signal extractional
 
 **2. Clock system in TianQin's mission**
-- a. Clock synchronization scheme
-- b. Theoretical Modeling of clock comparison
-- c. Noise analysis of clock system 
-- d. Test of gravity theory
+- Clock synchronization scheme
+- Theoretical Modeling of clock comparison
+- Noise analysis of clock system 
+- Test of gravity theory
 
 **3. Test of gravity theory using 'TianQin' dector**
-- a. Extension of standard model
-- b. Modified gravity theories
-- c. Black hole physics, Gravitational wave source
-- d. Dark matter, Dark energy, cosmology
+- Extension of standard model
+- Modified gravity theories
+- Black hole physics, Gravitational wave source
+- Dark matter, Dark energy, cosmology
 
 **4. Test of general relativity using atom interfeometry technique**
-- a. Gravitation wave detection
-- b. Theoretical modeling of measuring the gravitational constant 'G'
-- c. Dark matter, Dark energy, Measuring scheme of equivalence principle
-- d. Error analysis of atom interfeometry
-- e. Cold atom clock, Particle spain, Which way
+- Gravitation wave detection
+- Theoretical modeling of measuring the gravitational constant 'G'
+- Dark matter, Dark energy, Measuring scheme of equivalence principle
+- Error analysis of atom interfeometry
+- Cold atom clock, Particle spain, Which way
 
 ### Welcome to Join our Research
 
-Dr. Chenggang Shao is interested in supervising **senior undergraduates**, and **graduates at
-all levels**. Those who are good at either mathematics or computer science are
-especially encouraged. Students from other universities/institutions are also
-welcome. 
+Dr. Chenggang Shao is interested in supervising **senior undergraduates** and **graduates at all levels**. Those who are good at either mathematics or computer science are especially encouraged. Students from other universities/institutions are also welcome. 
 
 We would also like to hire **postdoctoral researchers**. If you are interested
 in gravitational physics or searching for new physics from astrophysical
 observations, please send your CV and we will help you in getting a position
-when available. Please contact [Dr. Chenggang Shao](http://faculty.hust.edu.cn/shaochenggang/en/index.htm)!
+when available. Please contact [Dr. Cheng-Gang Shao](http://faculty.hust.edu.cn/shaochenggang/en/index.htm)!
 
 <figure>                                                                        
 <img src="/assets/league_building_Oct4_2018.png" style="width:100%">                 
