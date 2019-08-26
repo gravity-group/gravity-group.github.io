@@ -28,7 +28,7 @@ permalink: /publication/
 
 - L. Zhu et al., [Magnetic effect in the test of the weak equivalence principle using a rotating torsion pendulum](https://aip.scitation.org/doi/abs/10.1063/1.5021956), Review of Scientific Instruments 89, 044501.
 
-- J. Luo, L. C. Shen, C. S. Shao, Q. Liu, H. J. Zhang, [Correlation method estimation of the modulation signal in the weak equivalence principle test](https://aip.scitation.org/doi/abs/10.1063/1.5021956), Chinese Physics B 27, 08040.
+- J. Luo, L. C. Shen, C. G. Shao, Q. Liu, H. J. Zhang, [Correlation method estimation of the modulation signal in the weak equivalence principle test](https://aip.scitation.org/doi/abs/10.1063/1.5021956), Chinese Physics B 27, 08040.
 
 ---
 
@@ -38,7 +38,7 @@ permalink: /publication/
 
 - Y. J. Tan, C. G. Shao, Z. K. Hu, [Relativistic effects in atom gravimeters](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.024002), Physical Review D 95, 024002.
 
-- Y. F. Chen, Y. J. Tan, C. S. Shao, [Experimental design for testing Local Lorentz Invariance violations in gravity](https://www.mdpi.com/2073-8994/9/10/219), Symmetry 9, 910019.
+- Y. F. Chen, Y. J. Tan, C. G. Shao, [Experimental design for testing Local Lorentz Invariance violations in gravity](https://www.mdpi.com/2073-8994/9/10/219), Symmetry 9, 910019.
 
 - J. H. Xu, C. G. Shao, J. Luo, Q. Liu, L. Zhu, H. H. Zhao, [Effect of gravity gradient in weak equivalence principle test](http://cpb.iphy.ac.cn/EN/abstract/abstract70352.shtml), Chinese Physics B 26, 080401.
 
@@ -54,7 +54,7 @@ permalink: /publication/
 
 ### 2016
 
-- W. Tan et al., [New test of the gravitational Inverse-Square Law at the submillimeter range with dual modulation and compensation](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.131101), Physical Review Letters 117, 131101.
+- W. H. Tan et al., [New test of the gravitational Inverse-Square Law at the submillimeter range with dual modulation and compensation](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.131101), Physical Review Letters 117, 131101.
 
 - X. C. Duan et al., [Test of the Universality of Free Fall with Atoms in Different Spin Orientations](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.023001), Physical Review Letters 117, 023001.
 
