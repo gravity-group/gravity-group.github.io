@@ -14,7 +14,7 @@ Yujie Tan, Chenggang Qin Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yuan
 
 ## Paper Reading/Progress of the subject
 
-##### Chenggang Qin
+#### Chenggang Qin
 
 **Testing the universality of free fall towards dark matter with radio pulsars,**
 
@@ -31,7 +31,7 @@ by Lijing Shao, Norbert Wex, Michael Kramer.
 
 ## Search Paper 
 
-##### Panpan Wang
+#### Panpan Wang
 
 **Theme**
 
