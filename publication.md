@@ -159,7 +159,7 @@ permalink: /publication/
 
 - J. Luo, C. G. Shao, D. H. Wang, [Thermal noise limit on the period of a torsion pendulum](https://iopscience.iop.org/article/10.1088/0264-9381/26/19/195005), Classical and Quantum Gravity 26, 195005.
 
-- L. Liu, S. G. Guan, Q. Liu, Y. T. Zhang, C. G. Shao, J. Luo, [Precision Measurement of Distribution of Film Thickness on Pendulum for Experiment of G](http://cpl.iphy.ac.cn/10.1088/0256-307X/26/9/090402), Chinese Physics Letters 26, 090402.
+- L. X. Liu, S. G. Guan, Q. Liu, Y. T. Zhang, C. G. Shao, J. Luo, [Precision Measurement of Distribution of Film Thickness on Pendulum for Experiment of G](http://cpl.iphy.ac.cn/10.1088/0256-307X/26/9/090402), Chinese Physics Letters 26, 090402.
 
 - L. X. Liu, C. G. Shao, L. C. Tu, J. Luo, [Measurement of Density Inhomogeneity for Source Masses in Time-of-Swing Method of Measuring](http://cpl.iphy.ac.cn/10.1088/0256-307X/26/1/010403), Chinese Physics Letters 26, 010403.
 
@@ -195,7 +195,7 @@ permalink: /publication/
 
 - Z. Yan, C. G. Shao, J. Luo, [Finite Temperature Casimir Effect for Corrugated Plates](http://cpl.iphy.ac.cn/Y2006/V23/I11/2928), Chinese Physics Letters 23, 2928.
 
-- C. Shao, A. H. Tong, J. Luo, [Casimir Effect for Dielectric Plates](https://ctp.itp.ac.cn/EN/Y2006/V45/I03/499), Communications in Theoretical Physics 45, 499.
+- C. G. Shao, A. H. Tong, J. Luo, [Casimir Effect for Dielectric Plates](https://ctp.itp.ac.cn/EN/Y2006/V45/I03/499), Communications in Theoretical Physics 45, 499.
 
 ---
 
@@ -209,7 +209,7 @@ permalink: /publication/
 
 - J. Luo, D. H. Wang, Q. Liu, C. G. Shao [Precise determination of period of a torsion pendulum in measurement of gravitational constant](http://cpl.iphy.ac.cn/Y2005/V22/I9/2169), Chinese Physics Letters 22, 2169.
 
-- L. Liu, C. G. Shao, J. Luo [Gravitational Faraday Rotation of the Earth and Its Possible Test](http://cpl.iphy.ac.cn/Y2005/V22/I12/3021), Chinese Physics Letters 22, 3021.
+- L. X. Liu, C. G. Shao, J. Luo [Gravitational Faraday Rotation of the Earth and Its Possible Test](http://cpl.iphy.ac.cn/Y2005/V22/I12/3021), Chinese Physics Letters 22, 3021.
 
 ---
 
