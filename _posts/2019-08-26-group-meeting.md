@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Group Meeting 25/08/2019"
-date:   2019-08-25
+title:  "Group Meeting 26/08/2019"
+date:   2019-08-26
 author: Chenggang Shao
 categories: activities
 ---
 
 ## Attendees (9)
 
-Yujie Tan, Chengfang Qin Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yuanling Zhao, Yu Hu, Caiying Shao
+Yujie Tan, Chenggang Qin Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yuanling Zhao, Yu Hu, Caiying Shao
 
 ---
 
 ## Paper Reading/Progress of the subject
 
-Chenggang Qin
+##### Chenggang Qin
 
 **Testing the universality of free fall towards dark matter with radio pulsars,**
 
@@ -31,7 +31,7 @@ by Lijing Shao, Norbert Wex, Michael Kramer.
 
 ## Search Paper 
 
-Name
+##### Panpan Wang
 
 **Theme**
 
