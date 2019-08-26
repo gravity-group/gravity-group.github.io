@@ -24,7 +24,7 @@ tr:nth-child(odd) {
 
 ## Research Interests 
 
-We are broadly interested in various topics related to **gravitational and Quantum theory**. In particularz, we enjoyed working on
+We are broadly interested in various topics related to **gravitational and Quantum theory**. In particular, we enjoyed working on
 
 **1. Noise analysis of space-borne gravitational wave detectors**
 - Noise modeling of the track system
