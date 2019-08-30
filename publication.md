@@ -38,6 +38,8 @@ permalink: /publication/
 
 - Y. J. Tan, C. G. Shao, Z. K. Hu, [Relativistic effects in atom gravimeters](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.024002), Physical Review D 95, 024002.
 
+- Y. J. Tan, C. G. Shao, Z. K. Hu, [Time delay and the effect of the finite speed of light in atom gravimeters](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.023604), Physical Review A 96, 023604.
+
 - Y. F. Chen, Y. J. Tan, C. G. Shao, [Experimental design for testing Local Lorentz Invariance violations in gravity](https://www.mdpi.com/2073-8994/9/10/219), Symmetry 9, 910019.
 
 - J. H. Xu, C. G. Shao, J. Luo, Q. Liu, L. Zhu, H. H. Zhao, [Effect of gravity gradient in weak equivalence principle test](http://cpb.iphy.ac.cn/EN/abstract/abstract70352.shtml), Chinese Physics B 26, 080401.
