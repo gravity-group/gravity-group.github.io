@@ -37,7 +37,6 @@ by Lijing Shao, Norbert Wex, Michael Kramer.
 
 1. T3 Stern-Gerlach Matter-Wave Interferometer
 [[2019-PRL.123, 083601](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.083601)]
-
 Ps: 通过磁场操控原子内态给出磁场加速度，进一步探测表面效应。
 
 2. Multiport atom interferometry for inertial sensing
