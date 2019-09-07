@@ -16,7 +16,7 @@ Yujie Tan, Chenggang Qin Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yuan
 
 #### Chenggang Qin
 
-**Testing the universality of free fall towards dark matter with radio pulsars,**
+**Testing the universality of free fall towards dark matter with radio pulsars**
 
 by Lijing Shao, Norbert Wex, Michael Kramer. 
 
@@ -33,18 +33,18 @@ by Lijing Shao, Norbert Wex, Michael Kramer.
 
 #### Panpan Wang
 
-**Atom interferometer **
+**Atom interferometer**
 
-1. T3 Stern-Gerlach Matter-Wave Interferometer
+- T3 Stern-Gerlach Matter-Wave Interferometer
 [[2019-PRL.123, 083601](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.083601)]
 Ps: 通过磁场操控原子内态给出磁场加速度，进一步探测表面效应。
 
-2. Multiport atom interferometry for inertial sensing
+- Multiport atom interferometry for inertial sensing
 [[2019-PRL.100, 023617](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.023617)]
 
 Ps: 正交相位探测能增大灵敏度。
 
-3. Tools for designing atom interferometers in a microgravity environment
+- Tools for designing atom interferometers in a microgravity environment
 [[2019-PRA.123, 083601](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99, 043615)]
 
 Ps: 三维旋转框架G-P方程的近似解做为高斯云NC的总和。其中假设假设每个高斯云都有与时间相关的中心位置、宽度、线性和二次相位参数。利用拉格朗日变化方法来得出这些参数的运动方程，并在微重力下寻找测G的方案。
@@ -72,7 +72,7 @@ Ps: 研究了LIGO/VIRGO数据处理中两种非高斯效应降低了寻找引力
 
 Ps: 计算了原子干涉仪在一组柱状体的引力场作用下产生的相位。
 
-8.Post-Newtonian Hamiltonian description of an atom in a weak gravitational field
+8. Post-Newtonian Hamiltonian description of an atom in a weak gravitational field
 [[2019-Arxiv: 1908.06929](https://arxiv.org/pdf/1908.06929.pdf)]
 
 Ps: 推广了用Sonnleitner和Barnett对电磁约束双粒子系统的质心和内部动力学的近似相对论哈密顿量的系统计算。从正确的相对论描述开始，这种方法可以系统地推导模型系统与重力的耦合关系，而不是用相对论效应的经典概念来“猜测”。将这一技术结果嵌入到有关实现和解释引力场的一般耦合问题以及如何正确解决量子力学中等效原理有效性问题的关键讨论中。
