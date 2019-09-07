@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Group Meeting 26/08/2019"
-date:   2019-08-26
+title:  "Group Meeting 08/09/2019"
+date:   2019-09-08
 author: Chenggang Shao
 categories: activities
 ---

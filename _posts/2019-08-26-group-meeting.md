@@ -6,7 +6,7 @@ author: Chenggang Shao
 categories: activities
 ---
 
-## Attendees (9)
+## Attendees (11)
 
 Yujie Tan, Chenggang Qin Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yuanling Zhao, Yu Hu, Caiying Shao, Tao Jin, Jun Ke
 
