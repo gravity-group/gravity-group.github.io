@@ -47,7 +47,7 @@ Ps: 对于和施瓦西黑洞相近的黑洞，多个场耦合的方程，给出�
 
 - Quasinormal modes, scattering, and Hawking radiation in the vicinity of an Einstein-dilaton-Gauss-Bonnet black hole
 [[2019-Arxiv:1907.08416](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.124042)], 
-Ps: 将EdGB黑洞解参数化，计算标量、电磁场、狄拉克场扰动QNM，得到频谱，分析和施瓦西解的偏离。计算透射率，计算霍金辐射。。
+Ps: 将EdGB黑洞解参数化，计算标量、电磁场、狄拉克场扰动QNM，得到频谱，分析和施瓦西解的偏离。计算透射率，计算霍金辐射。
 
 - Higher order WKB formula for quasinormal modes and grey-body factors: recipes for quick and accurate calculations
 [[2019-CQG.36,155002](https://iopscience.iop.org/article/10.1088/1361-6382/ab2e25)],
