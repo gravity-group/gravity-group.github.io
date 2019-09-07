@@ -36,17 +36,15 @@ by Lijing Shao, Norbert Wex, Michael Kramer.
 **Atom interferometer**
 
 - T3 Stern-Gerlach Matter-Wave Interferometer
-[[2019-PRL.123, 083601](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.083601)]
+[[2019-PRL.123, 083601](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.083601)], 
 Ps: 通过磁场操控原子内态给出磁场加速度，进一步探测表面效应。
 
 - Multiport atom interferometry for inertial sensing
-[[2019-PRL.100, 023617](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.023617)]
-
+[[2019-PRL.100, 023617](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.023617)], 
 Ps: 正交相位探测能增大灵敏度。
 
 - Tools for designing atom interferometers in a microgravity environment
-[[2019-PRA.123, 083601](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99, 043615)]
-
+[[2019-PRA.123, 083601](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99, 043615)],
 Ps: 三维旋转框架G-P方程的近似解做为高斯云NC的总和。其中假设假设每个高斯云都有与时间相关的中心位置、宽度、线性和二次相位参数。利用拉格朗日变化方法来得出这些参数的运动方程，并在微重力下寻找测G的方案。
 
 4. Twin-lattice atom interferometry
