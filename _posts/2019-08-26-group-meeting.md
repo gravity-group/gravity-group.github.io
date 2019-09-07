@@ -8,7 +8,7 @@ categories: activities
 
 ## Attendees (9)
 
-Yujie Tan, Chenggang Qin Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yuanling Zhao, Yu Hu, Caiying Shao
+Yujie Tan, Chenggang Qin Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yuanling Zhao, Yu Hu, Caiying Shao, Tao Jin, Jun Ke
 
 ---
 
@@ -70,7 +70,7 @@ Ps: 计算了原子干涉仪在一组柱状体的引力场作用下产生的相�
 [[2019-Arxiv: 1908.06929](https://arxiv.org/pdf/1908.06929.pdf)],
 Ps: 推广了用Sonnleitner和Barnett对电磁约束双粒子系统的质心和内部动力学的近似相对论哈密顿量的系统计算。从正确的相对论描述开始，这种方法可以系统地推导模型系统与重力的耦合关系，而不是用相对论效应的经典概念来“猜测”。将这一技术结果嵌入到有关实现和解释引力场的一般耦合问题以及如何正确解决量子力学中等效原理有效性问题的关键讨论中。
 
-- 2019--On orbit performance of the GRACE Follow-On Laser Ranging Interferometer
+- 2019---On orbit performance of the GRACE Follow-On Laser Ranging Interferometer
 
 - 2015---GRACE-Follow On Laser Ranging Interferometer: German contribution
 
