@@ -34,7 +34,7 @@ permalink: /publication/
 
 ### 2017
 
-- C. G. Qin, C. G. Shao, [General post-Minkowskian expansion and application of the phase function](https://sci-hub.shop/https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.024003), Physical Review D 96, 024003.
+- C. G. Qin, C. G. Shao, [General post-Minkowskian expansion and application of the phase function](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.024003), Physical Review D 96, 024003.
 
 - Y. J. Tan, C. G. Shao, Z. K. Hu, [Relativistic effects in atom gravimeters](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.024002), Physical Review D 95, 024002.
 
