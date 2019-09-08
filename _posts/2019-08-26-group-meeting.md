@@ -78,6 +78,19 @@ Ps: 推广了用Sonnleitner和Barnett对电磁约束双粒子系统的质心和�
 
 
 ## Note
-- a.
-- b.
+- 强调本学期总体规划及安排；
+- 秦成刚进行文献讲解“Generalized gravitamagnetic clock effect”, 考虑隐磁的钟效应，对于任意轨道，定义观测量% MathType!MTEF!2!1!+-
+% feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn
+% hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr
+% 4rNCHbWexLMBbXgBd9gzLbvyNv2CaeHbl7mZLdGeaGqiVu0Je9sqqr
+% pepC0xbbL8F4rqqrFfpeea0xe9Lq-Jc9vqaqpepm0xbba9pwe9Q8fs
+% 0-yqaqpepae9pg0FirpepeKkFr0xfr-xfr-xb9adbaqaaeGaciGaai
+% aabeqaamaabaabauaakeaacqqHuoarcuaHepaDgaqeamaaBaaaleaa
+% caWGNbGaamyBaaqabaGccqGH9aqpcuaHepaDgaqeamaaBaaaleaaca
+% aIXaaabeaakiaacIcacqGHXcqScaaIYaGaeqiWdaNaaiykaiabgUca
+% Riabeg7aHjqbes8a0zaaraWaaSbaaSqaaiaaikdaaeqaaOGaaiikai
+% abgglaXkaaikdacqaHapaCcaGGPaaaaa!591D!
+$\Delta {\bar \tau _{gm}} = {\bar \tau _1}( \pm 2\pi ) + \alpha {\bar \tau _2}( \pm 2\pi )$
+
+## Problems
 - c. 
