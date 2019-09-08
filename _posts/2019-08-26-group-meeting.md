@@ -77,20 +77,17 @@ Ps: 推广了用Sonnleitner和Barnett对电磁约束双粒子系统的质心和�
 ---
 
 
-## Note
-- 强调本学期总体规划及安排；
-- 秦成刚进行文献讲解“Generalized gravitamagnetic clock effect”, 考虑隐磁的钟效应，对于任意轨道，定义观测量% MathType!MTEF!2!1!+-
-% feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn
-% hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr
-% 4rNCHbWexLMBbXgBd9gzLbvyNv2CaeHbl7mZLdGeaGqiVu0Je9sqqr
-% pepC0xbbL8F4rqqrFfpeea0xe9Lq-Jc9vqaqpepm0xbba9pwe9Q8fs
-% 0-yqaqpepae9pg0FirpepeKkFr0xfr-xfr-xb9adbaqaaeGaciGaai
-% aabeqaamaabaabauaakeaacqqHuoarcuaHepaDgaqeamaaBaaaleaa
-% caWGNbGaamyBaaqabaGccqGH9aqpcuaHepaDgaqeamaaBaaaleaaca
-% aIXaaabeaakiaacIcacqGHXcqScaaIYaGaeqiWdaNaaiykaiabgUca
-% Riabeg7aHjqbes8a0zaaraWaaSbaaSqaaiaaikdaaeqaaOGaaiikai
-% abgglaXkaaikdacqaHapaCcaGGPaaaaa!591D!
-$\Delta {\bar \tau _{gm}} = {\bar \tau _1}( \pm 2\pi ) + \alpha {\bar \tau _2}( \pm 2\pi )$
 
-## Problems
-- c. 
+## 会议记录纲要
+- 强调本学期总体规划及安排；
+- 秦成刚进行文献讲解“Generalized gravitamagnetic clock effect”, 考虑隐磁的钟效应，对于任意轨道，定义观测量，参数定义
+1. 此篇文献介绍了经典效应，如何来确定转一圈？
+2. 地球上的钟隐磁效应是多少？
+3. 若和天琴结合，确定如何实现检验？
+
+- 王盼盼进行文献查新
+1. 对于T3SGI应该进行细读，
+2. 其它文献原子都应该了解。
+
+- 邵老师对每个人下一步工作做出说明。
+

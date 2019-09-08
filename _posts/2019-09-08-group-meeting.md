@@ -6,9 +6,9 @@ author: Chenggang Shao
 categories: activities
 ---
 
-## Attendees (9)
+## Attendees (16)
 
-Yujie Tan, Chenggang Qin Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yuanling Zhao, Yu Hu, Caiying Shao
+Yujie Tan, Chenggang Qin, Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yuanling Zhao, Yu Hu, Caiying Shao, Yu Ke, Tao Jin, Shanni Huang, Yuguang Yao, Jiaojiao Mao, Wenhao Wu, Zhangqi Wu.
 
 ---
 
@@ -69,7 +69,15 @@ Ps: 人们通常认为双黑洞合并的Ringdown信号就是合并后黑洞的QN
 ---
 
 
-## Note
-- a.
-- b.
-- c. 
+## 会议记录纲要
+- 为方便新生认识大家，小组成员自我介绍；
+- 报告
+1. 路晓宇--空间引力波的灵敏度曲线, 邵老师明确下一步工作：(1)报告整理完善，王亚杰及引力方向同学学习完成，(2)将时钟噪声、不同模式组合，(3)整个频段的解析表达式曲线能否给出。
+
+2. 金涛--利用扭秤检验洛伦兹破缺效应实验的误差分配, 邵老师对其的建议：(1)将题目改为方案设计，(2)掌握实验原理，给出数据，提取24小时信号，(3) d=8的方案设计，以及将对应不同物理背景的不同系数提高，而不考虑其它系数的情况。
+
+3. 邵才莹--基于黑洞似正规模的研究, 对于中期考核，此内容达到要求。
+
+- 文献查新:  胡宇--主题:黑洞
+
+- 总结，明确本学期对相关工作的整理，1、黑洞、似正规模（胡宇、邵才莹）2、SME（路晓宇、金涛），3、时钟（秦成刚、邵才莹、胡宇）。
