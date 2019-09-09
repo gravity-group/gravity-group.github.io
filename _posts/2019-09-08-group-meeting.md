@@ -35,32 +35,24 @@ Yujie Tan, Chenggang Qin, Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yua
 
 - Analytical Black-Hole Binary Merger Waveforms
 [[2019-PRL.122, 191102](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.191102)], 
-Ps: 给出了一个双黑洞合并引力波波形的解析模型BOB.将合并时的动力学过程等效为一个包含扰动的单个黑洞时空，引力波波形由等效的黑洞的光环扰动给出。
 
 - Parametrized black hole quasinormal ringdown: Decoupled equations for nonrotating black holes
 [[2019-PRD.99, 104077](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.104077)], 
-Ps: 对于和施瓦西黑洞相近的黑洞，无耦合方程，给出了一种微扰方法数值计算QNM的方法。将扰动方程中势函数按级数展开，QNM频率的扰动按不同阶的扰动线性相加。
 
 - Parametrized black hole quasinormal ringdown. II. Coupled equations and quadratic corrections for nonrotating black holes
 [[2019-PRD.100, 044061](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.044061)],
-Ps: 对于和施瓦西黑洞相近的黑洞，多个场耦合的方程，给出了一种微扰方法数值计算QNM的方法。将多个场的耦合方程写成矩阵形式，将扰动方程中势函数按级数展开，QNM频率的扰动包含不同阶的线性项和平方耦合项。
 
 - Quasinormal modes, scattering, and Hawking radiation in the vicinity of an Einstein-dilaton-Gauss-Bonnet black hole
 [[2019-Arxiv:1907.08416](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.124042)], 
-Ps: 将EdGB黑洞解参数化，计算标量、电磁场、狄拉克场扰动QNM，得到频谱，分析和施瓦西解的偏离。计算透射率，计算霍金辐射。
 
 - Higher order WKB formula for quasinormal modes and grey-body factors: recipes for quick and accurate calculations
 [[2019-CQG.36,155002](https://iopscience.iop.org/article/10.1088/1361-6382/ab2e25)],
-Ps: 分析了WKB方法计算QNM的精度，存在的限制，采用Padé approximants可以提高WKB的精度。分析高维和有质量场如何选择是否使用Padé approximants。
 
 - First Higher-Multipole Model of Gravitational Waves from Spinning and Coalescing Black-Hole Binaries
 [[2018-PRL.120,161102](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.161102)],
-Ps: 由于双黑洞引力波波形中，不同极波形相似，文中提出可以通过一个基础的模（2,2）的波形变换得到不同极的模（l,m）的波形。
-
 
 - Accurate inspiral-merger-ringdown gravitational waveforms for nonspinning black-hole binaries including the effect of subdominant modes
 [[2017-PRD.96, 124010](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.124010)],
-Ps: 双黑洞合并引力波波形分为绕转、合并、ringdown三个阶段，绕转阶段适合用后牛顿体系，合并适合用数值相对论，本文结合不同方法给出了整个引力波信号的解析模型。
 
 - Is the Gravitational-Wave Ringdown a Probe of the Event Horizon ?
 [[2019-PRL.116,171101](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.171101)],
@@ -71,16 +63,3 @@ Ps: 双黑洞合并引力波波形分为绕转、合并、ringdown三个阶段�
 
 ## 会议记录纲要
 
-- 为方便新生认识大家，小组成员自我介绍；
-
-- 报告
-
-1. 路晓宇--空间引力波的灵敏度曲线, 邵老师明确下一步工作：(1)报告整理完善，王亚杰及引力方向同学学习完成，(2)将时钟噪声、不同模式组合，(3)整个频段的解析表达式曲线能否给出。
-
-2. 金涛--利用扭秤检验洛伦兹破缺效应实验的误差分配, 邵老师对其的建议：(1)将题目改为方案设计，(2)掌握实验原理，给出数据，提取24小时信号，(3) d=8的方案设计，以及将对应不同物理背景的不同系数提高，而不考虑其它系数的情况。
-
-3. 邵才莹--基于黑洞似正规模的研究, 对于中期考核，此内容达到要求。
-
-- 文献查新:  胡宇--主题:黑洞
-
-- 总结，明确本学期对相关工作的整理，1、黑洞、似正规模（胡宇、邵才莹）2、SME（路晓宇、金涛），3、时钟（秦成刚、邵才莹、胡宇）。
