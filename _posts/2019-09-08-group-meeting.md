@@ -64,7 +64,7 @@ Ps: 双黑洞合并引力波波形分为绕转、合并、ringdown三个阶段�
 
 - Is the Gravitational-Wave Ringdown a Probe of the Event Horizon ?
 [[2019-PRL.116,171101](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.171101)],
-Ps: 人们通常认为双黑洞合并的Ringdown信号就是合并后黑洞的QNM，探测到Ringdown信号意味着探测到了黑洞的事件视界。本文指出带有光环的致密星体也可以发出Ringdown信号，并指出了和黑洞Ringdown信号的区别。
+
 
 ---
 
