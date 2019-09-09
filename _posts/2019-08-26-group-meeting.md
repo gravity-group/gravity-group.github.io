@@ -16,9 +16,7 @@ Yujie Tan, Chenggang Qin Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yuan
 
 #### Chenggang Qin
 
-**Generalized gravitomagnetic clock effect**
-
-[[2014-PRD.90,044059](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.044059)]
+**Generalized gravitomagnetic clock effect**, [[2014-PRD.90,044059](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.044059)]
 
 ---
 
@@ -62,7 +60,6 @@ Yujie Tan, Chenggang Qin Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yuan
 
 
 ## Note
-- Corresponding files
 
 [[Corresponding files](https://mail.163.com/js6/main.jsp?sid=FABTcnArCrcSAwSWBXrrqIVMjXErgZSA&df=unknow#module=read.ReadModule%7C%7B%22area%22%3A%22normal%22%2C%22isThread%22%3Afalse%2C%22viewType%22%3A%22%22%2C%22id%22%3A%22201%3A1tbiyQoY0lQHGBUtTgAAs0%22%2C%22fid%22%3A1%7D)]
 
