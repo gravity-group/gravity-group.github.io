@@ -61,5 +61,4 @@ Yujie Tan, Chenggang Qin, Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yua
 ---
 
 
-## 会议记录纲要
-
+## Note
