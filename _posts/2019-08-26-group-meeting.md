@@ -16,15 +16,9 @@ Yujie Tan, Chenggang Qin Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yuan
 
 #### Chenggang Qin
 
-**Testing the universality of free fall towards dark matter with radio pulsars**
+**Generalized gravitomagnetic clock effect**
 
-by Lijing Shao, Norbert Wex, Michael Kramer. 
-
-[[2018-PRL.120.241104](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.241104)],[[arXiv:1805.08408](https://arxiv.org/abs/1805.08408v1)]
-
-- Corresponding files
-
-[[20120818----角加速度PID控制频率的影响（含功率谱相关问题推导）](https://mail.163.com/js6/main.jsp?sid=FABTcnArCrcSAwSWBXrrqIVMjXErgZSA&df=unknow#module=read.ReadModule%7C%7B%22area%22%3A%22normal%22%2C%22isThread%22%3Afalse%2C%22viewType%22%3A%22%22%2C%22id%22%3A%22201%3A1tbiyQoY0lQHGBUtTgAAs0%22%2C%22fid%22%3A1%7D)]
+[[2014-PRD.90,044059](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.044059)]
 
 ---
 
@@ -68,5 +62,7 @@ by Lijing Shao, Norbert Wex, Michael Kramer.
 
 
 ## Note
+- Corresponding files
 
+[[Corresponding files](https://mail.163.com/js6/main.jsp?sid=FABTcnArCrcSAwSWBXrrqIVMjXErgZSA&df=unknow#module=read.ReadModule%7C%7B%22area%22%3A%22normal%22%2C%22isThread%22%3Afalse%2C%22viewType%22%3A%22%22%2C%22id%22%3A%22201%3A1tbiyQoY0lQHGBUtTgAAs0%22%2C%22fid%22%3A1%7D)]
 
