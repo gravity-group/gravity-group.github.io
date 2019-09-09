@@ -16,8 +16,7 @@ Yujie Tan, Chenggang Qin, Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yua
 
 #### Xiaoyu Lu
 
-**Some basic principles of a “LISA”**
-[[2013-CRP.14, 366](https://www.sciencedirect.com/science/article/pii/S1631070513000236)]
+**Some basic principles of a “LISA”** [[2013-CRP.14, 366](https://www.sciencedirect.com/science/article/pii/S1631070513000236)]
 
 
 ---
@@ -59,4 +58,4 @@ Yujie Tan, Chenggang Qin, Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yua
 
 ## Note
 
-[[Corresponding files](https://mail.163.com/js6/main.jsp?sid=FABTcnArCrcSAwSWBXrrqIVMjXErgZSA&df=unknow#module=read.ReadModule%7C%7B%22area%22%3A%22normal%22%2C%22isThread%22%3Afalse%2C%22viewType%22%3A%22%22%2C%22id%22%3A%22201%3A1tbiyQoY0lQHGBUtTgAAs0%22%2C%22fid%22%3A1%7D)]
+[Corresponding files(https://mail.163.com/js6/main.jsp?sid=FABTcnArCrcSAwSWBXrrqIVMjXErgZSA&df=unknow#module=read.ReadModule%7C%7B%22area%22%3A%22normal%22%2C%22isThread%22%3Afalse%2C%22viewType%22%3A%22%22%2C%22id%22%3A%22201%3A1tbiyQoY0lQHGBUtTgAAs0%22%2C%22fid%22%3A1%7D)]
