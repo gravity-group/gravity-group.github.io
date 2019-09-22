@@ -16,7 +16,7 @@ Yujie Tan, Chenggang Qin, Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yua
 
 #### Panpan Wang
 
-**Some basic principles of a “LISA”** [[2013-CRP.14, 366](https://www.sciencedirect.com/science/article/pii/S1631070513000236)]
+**T3 Stern-Gerlach Matter-Wave Interferometer”** [[2019-PRL. 123, 083601(https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.083601)]
 
 ---
 
