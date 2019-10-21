@@ -23,7 +23,7 @@ Yujie Tan, Chenggang Qin, Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yua
 
 ## Search Paper 
 
-#### Panpan Wang
+#### Yuanling Zhao
 
 **Atom interferometer**
 
