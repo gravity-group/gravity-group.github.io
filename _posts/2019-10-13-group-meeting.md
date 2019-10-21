@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Group Meeting 29/09/2019"
-date:   2019-09-29
+date:   2019-10-13
 author: Chenggang Shao
 categories: activities
 ---
@@ -14,10 +14,10 @@ Yujie Tan, Chenggang Qin, Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yua
 
 ## Paper Reading
 
-#### Miaomiao Zhao
+#### Yajie Wang
 
-**Simultaneous accurate determination of both gravity and its vertical gradient** 
-[[2019-PRA. 99, 033601](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.033601)]
+**A proposed atom interferometry determination of G at 10−5 using a cold atomic fountain** 
+[[Metrologia 55 (2018) 50–55](https://iopscience.iop.org/article/10.1088/1681-7575/aa8fd8/pdf)]
 
 ---
 
