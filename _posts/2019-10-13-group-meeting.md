@@ -28,7 +28,7 @@ Yujie Tan, Chenggang Qin, Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yua
 **Atom interferometer**
 
 - Estimation of gravitational acceleration with quantum optical interferometers
-[[PHYSICAL REVIEW A 99, 023803 (2019)](https://journals.aps.org/pra/pdf/10.1103/PhysRevA.99.023803)], 
+[[PHYSICAL REVIEW A 99, 023803 (2019)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.023803)], 
 
 - Experiment to Detect Dark Energy Forces Using Atom Interferometry
 [[PHYSICAL REVIEW LETTERS 123, 061102 (2019)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.061102)], 
