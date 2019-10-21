@@ -37,10 +37,10 @@ Yujie Tan, Chenggang Qin, Xiaoyu Lu, Yajie Wang, Panpan Wang, Miaomiao Zhao, Yua
 [[PHYSICAL REVIEW A 99, 013601 (2019)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.013601)],
 
 - Readout-delay-free Bragg atom interferometry using overlapped spatial fringes
-[[PHYSICAL REVIEW A 99, 023615 (2019)](https://journals.aps.org/pra/pdf/10.1103/PhysRevA.99.023615)], 
+[[PHYSICAL REVIEW A 99, 023615 (2019)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.023615)], 
 
 - Ramsey-Bordé Matter-Wave Interferometry for Laser Frequency Stabilization at   Frequency Instability and Below
-[[PHYSICAL REVIEW LETTERS 123, 073202 (2019)](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.123.073202)],
+[[PHYSICAL REVIEW LETTERS 123, 073202 (2019)](073202)],
 
 
 ---
